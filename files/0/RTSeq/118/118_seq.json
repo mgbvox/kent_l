@@ -1,0 +1,2387 @@
+[
+  {
+    "inputSequence": {
+      "header": "unk",
+      "SHA512": "0193c575a48f29b199a3c733ce4de4c1f021f67bf56fddb7ddd9586653a14bb562ada821e063d7e4c3b13ff86ccba0933c1cb0a90443043bccfb8ea2362aad86"
+    },
+    "subtypeText": "B (3.22%)",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 300,
+        "gene": {
+          "name": "RT",
+          "length": 560
+        },
+        "mutations": [
+          {
+            "consensus": "V",
+            "position": 35,
+            "AAs": "M",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 39,
+            "AAs": "A",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 67,
+            "AAs": "N",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": true
+          },
+          {
+            "consensus": "K",
+            "position": 70,
+            "AAs": "R",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 82,
+            "AAs": "KR",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 100,
+            "AAs": "IL",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 103,
+            "AAs": "N",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 107,
+            "AAs": "A",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 122,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 123,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 177,
+            "AAs": "G",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "M",
+            "position": 184,
+            "AAs": "MV",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 200,
+            "AAs": "A",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 215,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 219,
+            "AAs": "Q",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 286,
+            "AAs": "A",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "E",
+            "position": 297,
+            "AAs": "K",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "D67N"
+          },
+          {
+            "text": "K70R"
+          },
+          {
+            "text": "L100I"
+          },
+          {
+            "text": "K103N"
+          },
+          {
+            "text": "M184V"
+          },
+          {
+            "text": "T215I"
+          },
+          {
+            "text": "K219Q"
+          }
+        ],
+        "alignedNAs": "CCCATTAGTCCTATTGAAACTGTACCAGTTAAATTAAAGCCAGGAATGGATGGCCCAAAAGTTAAACAATGGCCATTGACAGAAGAAAAAATAAAAGCATTAATGGAAATTTGTGCAGAAATGGAAAAGGAAGGGAAAATTTCAAAAATTGGGCCTGAAAATCCATACAATACTCCAGTATTTGCCATAAAGAAGAAAAACAGTACTAGATGGAGAAAATTAGTAGATTTCAGAGAACTTAATARAAGAACTCAAGACTTCTGGGAAGTTCAACTAGGAATACCACATCCTGCAGGGWTAAAAAAGAAYAAATCAGTRGCAGTACTGGATGTGGGTGATGCATATTTTTCAGTTCCCTTAGATGAAGAATTCAGAAAGTATACTGCATTCACCATACCTAGTATAAACAATGAGACACCAGGAATTAGATATCAGTACAATGTGCTTCCACAGGGATGGAARGGATCACCAGCAATATTTCAAAGTAGCATGACAAAAATCTTAGAGCCTTTTAGAAAACAAAATCCAGGCATAGTTATCTATCAATACRTGGATGATTTGTATGTAGGATCTGACCTAGAGATAGGGCAGCATAGAGCAAAAATAGAGGAACTGAGACAACATCTGTTGAGGTGGGGATTYATCACACCAGACCAGAAGCATCAGAAAGAACCTCCATTCCTTTGGATGGGTTATGAGCTCCATCCTGATAAATGGACAGTACAGCCTATAGTGCTGCCAGAAAAAGACAGCTGGACTGTCAATGACATACAGAARTTAGTGGGAAAATTGAATTGGGCAAGTCAAATTTATGCAGGGATCAAGGTAAAGCAATTATGTAAACTCCTTAGGGGAGCTAAAGCACTAACAGAAGTAATACCACTAACAAAAGAAGCAGAG",
+        "alignedAAs": "PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALMEICAEMEKEGKISKIGPENPYNTPVFAIKKKNSTRWRKLVDFRELNRRTQDFWEVQLGIPHPAGIKKNKSVAVLDVGDAYFSVPLDEEFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFRKQNPGIVIYQYVDDLYVGSDLEIGQHRAKIEELRQHLLRWGFITPDQKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQIYAGIKVKQLCKLLRGAKALTEVIPLTKEAE",
+        "prettyPairwise": {
+          "positionLine": [
+            " 1 ",
+            " 2 ",
+            " 3 ",
+            " 4 ",
+            " 5 ",
+            " 6 ",
+            " 7 ",
+            " 8 ",
+            " 9 ",
+            "10 ",
+            "11 ",
+            "12 ",
+            "13 ",
+            "14 ",
+            "15 ",
+            "16 ",
+            "17 ",
+            "18 ",
+            "19 ",
+            "20 ",
+            "21 ",
+            "22 ",
+            "23 ",
+            "24 ",
+            "25 ",
+            "26 ",
+            "27 ",
+            "28 ",
+            "29 ",
+            "30 ",
+            "31 ",
+            "32 ",
+            "33 ",
+            "34 ",
+            "35 ",
+            "36 ",
+            "37 ",
+            "38 ",
+            "39 ",
+            "40 ",
+            "41 ",
+            "42 ",
+            "43 ",
+            "44 ",
+            "45 ",
+            "46 ",
+            "47 ",
+            "48 ",
+            "49 ",
+            "50 ",
+            "51 ",
+            "52 ",
+            "53 ",
+            "54 ",
+            "55 ",
+            "56 ",
+            "57 ",
+            "58 ",
+            "59 ",
+            "60 ",
+            "61 ",
+            "62 ",
+            "63 ",
+            "64 ",
+            "65 ",
+            "66 ",
+            "67 ",
+            "68 ",
+            "69 ",
+            "70 ",
+            "71 ",
+            "72 ",
+            "73 ",
+            "74 ",
+            "75 ",
+            "76 ",
+            "77 ",
+            "78 ",
+            "79 ",
+            "80 ",
+            "81 ",
+            "82 ",
+            "83 ",
+            "84 ",
+            "85 ",
+            "86 ",
+            "87 ",
+            "88 ",
+            "89 ",
+            "90 ",
+            "91 ",
+            "92 ",
+            "93 ",
+            "94 ",
+            "95 ",
+            "96 ",
+            "97 ",
+            "98 ",
+            "99 ",
+            "100",
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110",
+            "111",
+            "112",
+            "113",
+            "114",
+            "115",
+            "116",
+            "117",
+            "118",
+            "119",
+            "120",
+            "121",
+            "122",
+            "123",
+            "124",
+            "125",
+            "126",
+            "127",
+            "128",
+            "129",
+            "130",
+            "131",
+            "132",
+            "133",
+            "134",
+            "135",
+            "136",
+            "137",
+            "138",
+            "139",
+            "140",
+            "141",
+            "142",
+            "143",
+            "144",
+            "145",
+            "146",
+            "147",
+            "148",
+            "149",
+            "150",
+            "151",
+            "152",
+            "153",
+            "154",
+            "155",
+            "156",
+            "157",
+            "158",
+            "159",
+            "160",
+            "161",
+            "162",
+            "163",
+            "164",
+            "165",
+            "166",
+            "167",
+            "168",
+            "169",
+            "170",
+            "171",
+            "172",
+            "173",
+            "174",
+            "175",
+            "176",
+            "177",
+            "178",
+            "179",
+            "180",
+            "181",
+            "182",
+            "183",
+            "184",
+            "185",
+            "186",
+            "187",
+            "188",
+            "189",
+            "190",
+            "191",
+            "192",
+            "193",
+            "194",
+            "195",
+            "196",
+            "197",
+            "198",
+            "199",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211",
+            "212",
+            "213",
+            "214",
+            "215",
+            "216",
+            "217",
+            "218",
+            "219",
+            "220",
+            "221",
+            "222",
+            "223",
+            "224",
+            "225",
+            "226",
+            "227",
+            "228",
+            "229",
+            "230",
+            "231",
+            "232",
+            "233",
+            "234",
+            "235",
+            "236",
+            "237",
+            "238",
+            "239",
+            "240",
+            "241",
+            "242",
+            "243",
+            "244",
+            "245",
+            "246",
+            "247",
+            "248",
+            "249",
+            "250",
+            "251",
+            "252",
+            "253",
+            "254",
+            "255",
+            "256",
+            "257",
+            "258",
+            "259",
+            "260",
+            "261",
+            "262",
+            "263",
+            "264",
+            "265",
+            "266",
+            "267",
+            "268",
+            "269",
+            "270",
+            "271",
+            "272",
+            "273",
+            "274",
+            "275",
+            "276",
+            "277",
+            "278",
+            "279",
+            "280",
+            "281",
+            "282",
+            "283",
+            "284",
+            "285",
+            "286",
+            "287",
+            "288",
+            "289",
+            "290",
+            "291",
+            "292",
+            "293",
+            "294",
+            "295",
+            "296",
+            "297",
+            "298",
+            "299",
+            "300"
+          ],
+          "refAALine": [
+            " P ",
+            " I ",
+            " S ",
+            " P ",
+            " I ",
+            " E ",
+            " T ",
+            " V ",
+            " P ",
+            " V ",
+            " K ",
+            " L ",
+            " K ",
+            " P ",
+            " G ",
+            " M ",
+            " D ",
+            " G ",
+            " P ",
+            " K ",
+            " V ",
+            " K ",
+            " Q ",
+            " W ",
+            " P ",
+            " L ",
+            " T ",
+            " E ",
+            " E ",
+            " K ",
+            " I ",
+            " K ",
+            " A ",
+            " L ",
+            " V ",
+            " E ",
+            " I ",
+            " C ",
+            " T ",
+            " E ",
+            " M ",
+            " E ",
+            " K ",
+            " E ",
+            " G ",
+            " K ",
+            " I ",
+            " S ",
+            " K ",
+            " I ",
+            " G ",
+            " P ",
+            " E ",
+            " N ",
+            " P ",
+            " Y ",
+            " N ",
+            " T ",
+            " P ",
+            " V ",
+            " F ",
+            " A ",
+            " I ",
+            " K ",
+            " K ",
+            " K ",
+            " D ",
+            " S ",
+            " T ",
+            " K ",
+            " W ",
+            " R ",
+            " K ",
+            " L ",
+            " V ",
+            " D ",
+            " F ",
+            " R ",
+            " E ",
+            " L ",
+            " N ",
+            " K ",
+            " R ",
+            " T ",
+            " Q ",
+            " D ",
+            " F ",
+            " W ",
+            " E ",
+            " V ",
+            " Q ",
+            " L ",
+            " G ",
+            " I ",
+            " P ",
+            " H ",
+            " P ",
+            " A ",
+            " G ",
+            " L ",
+            " K ",
+            " K ",
+            " K ",
+            " K ",
+            " S ",
+            " V ",
+            " T ",
+            " V ",
+            " L ",
+            " D ",
+            " V ",
+            " G ",
+            " D ",
+            " A ",
+            " Y ",
+            " F ",
+            " S ",
+            " V ",
+            " P ",
+            " L ",
+            " D ",
+            " K ",
+            " D ",
+            " F ",
+            " R ",
+            " K ",
+            " Y ",
+            " T ",
+            " A ",
+            " F ",
+            " T ",
+            " I ",
+            " P ",
+            " S ",
+            " I ",
+            " N ",
+            " N ",
+            " E ",
+            " T ",
+            " P ",
+            " G ",
+            " I ",
+            " R ",
+            " Y ",
+            " Q ",
+            " Y ",
+            " N ",
+            " V ",
+            " L ",
+            " P ",
+            " Q ",
+            " G ",
+            " W ",
+            " K ",
+            " G ",
+            " S ",
+            " P ",
+            " A ",
+            " I ",
+            " F ",
+            " Q ",
+            " S ",
+            " S ",
+            " M ",
+            " T ",
+            " K ",
+            " I ",
+            " L ",
+            " E ",
+            " P ",
+            " F ",
+            " R ",
+            " K ",
+            " Q ",
+            " N ",
+            " P ",
+            " D ",
+            " I ",
+            " V ",
+            " I ",
+            " Y ",
+            " Q ",
+            " Y ",
+            " M ",
+            " D ",
+            " D ",
+            " L ",
+            " Y ",
+            " V ",
+            " G ",
+            " S ",
+            " D ",
+            " L ",
+            " E ",
+            " I ",
+            " G ",
+            " Q ",
+            " H ",
+            " R ",
+            " T ",
+            " K ",
+            " I ",
+            " E ",
+            " E ",
+            " L ",
+            " R ",
+            " Q ",
+            " H ",
+            " L ",
+            " L ",
+            " R ",
+            " W ",
+            " G ",
+            " F ",
+            " T ",
+            " T ",
+            " P ",
+            " D ",
+            " K ",
+            " K ",
+            " H ",
+            " Q ",
+            " K ",
+            " E ",
+            " P ",
+            " P ",
+            " F ",
+            " L ",
+            " W ",
+            " M ",
+            " G ",
+            " Y ",
+            " E ",
+            " L ",
+            " H ",
+            " P ",
+            " D ",
+            " K ",
+            " W ",
+            " T ",
+            " V ",
+            " Q ",
+            " P ",
+            " I ",
+            " V ",
+            " L ",
+            " P ",
+            " E ",
+            " K ",
+            " D ",
+            " S ",
+            " W ",
+            " T ",
+            " V ",
+            " N ",
+            " D ",
+            " I ",
+            " Q ",
+            " K ",
+            " L ",
+            " V ",
+            " G ",
+            " K ",
+            " L ",
+            " N ",
+            " W ",
+            " A ",
+            " S ",
+            " Q ",
+            " I ",
+            " Y ",
+            " A ",
+            " G ",
+            " I ",
+            " K ",
+            " V ",
+            " K ",
+            " Q ",
+            " L ",
+            " C ",
+            " K ",
+            " L ",
+            " L ",
+            " R ",
+            " G ",
+            " T ",
+            " K ",
+            " A ",
+            " L ",
+            " T ",
+            " E ",
+            " V ",
+            " I ",
+            " P ",
+            " L ",
+            " T ",
+            " E ",
+            " E ",
+            " A ",
+            " E "
+          ],
+          "alignedNAsLine": [
+            "CCC",
+            "ATT",
+            "AGT",
+            "CCT",
+            "ATT",
+            "GAA",
+            "ACT",
+            "GTA",
+            "CCA",
+            "GTT",
+            "AAA",
+            "TTA",
+            "AAG",
+            "CCA",
+            "GGA",
+            "ATG",
+            "GAT",
+            "GGC",
+            "CCA",
+            "AAA",
+            "GTT",
+            "AAA",
+            "CAA",
+            "TGG",
+            "CCA",
+            "TTG",
+            "ACA",
+            "GAA",
+            "GAA",
+            "AAA",
+            "ATA",
+            "AAA",
+            "GCA",
+            "TTA",
+            "ATG",
+            "GAA",
+            "ATT",
+            "TGT",
+            "GCA",
+            "GAA",
+            "ATG",
+            "GAA",
+            "AAG",
+            "GAA",
+            "GGG",
+            "AAA",
+            "ATT",
+            "TCA",
+            "AAA",
+            "ATT",
+            "GGG",
+            "CCT",
+            "GAA",
+            "AAT",
+            "CCA",
+            "TAC",
+            "AAT",
+            "ACT",
+            "CCA",
+            "GTA",
+            "TTT",
+            "GCC",
+            "ATA",
+            "AAG",
+            "AAG",
+            "AAA",
+            "AAC",
+            "AGT",
+            "ACT",
+            "AGA",
+            "TGG",
+            "AGA",
+            "AAA",
+            "TTA",
+            "GTA",
+            "GAT",
+            "TTC",
+            "AGA",
+            "GAA",
+            "CTT",
+            "AAT",
+            "ARA",
+            "AGA",
+            "ACT",
+            "CAA",
+            "GAC",
+            "TTC",
+            "TGG",
+            "GAA",
+            "GTT",
+            "CAA",
+            "CTA",
+            "GGA",
+            "ATA",
+            "CCA",
+            "CAT",
+            "CCT",
+            "GCA",
+            "GGG",
+            "WTA",
+            "AAA",
+            "AAG",
+            "AAY",
+            "AAA",
+            "TCA",
+            "GTR",
+            "GCA",
+            "GTA",
+            "CTG",
+            "GAT",
+            "GTG",
+            "GGT",
+            "GAT",
+            "GCA",
+            "TAT",
+            "TTT",
+            "TCA",
+            "GTT",
+            "CCC",
+            "TTA",
+            "GAT",
+            "GAA",
+            "GAA",
+            "TTC",
+            "AGA",
+            "AAG",
+            "TAT",
+            "ACT",
+            "GCA",
+            "TTC",
+            "ACC",
+            "ATA",
+            "CCT",
+            "AGT",
+            "ATA",
+            "AAC",
+            "AAT",
+            "GAG",
+            "ACA",
+            "CCA",
+            "GGA",
+            "ATT",
+            "AGA",
+            "TAT",
+            "CAG",
+            "TAC",
+            "AAT",
+            "GTG",
+            "CTT",
+            "CCA",
+            "CAG",
+            "GGA",
+            "TGG",
+            "AAR",
+            "GGA",
+            "TCA",
+            "CCA",
+            "GCA",
+            "ATA",
+            "TTT",
+            "CAA",
+            "AGT",
+            "AGC",
+            "ATG",
+            "ACA",
+            "AAA",
+            "ATC",
+            "TTA",
+            "GAG",
+            "CCT",
+            "TTT",
+            "AGA",
+            "AAA",
+            "CAA",
+            "AAT",
+            "CCA",
+            "GGC",
+            "ATA",
+            "GTT",
+            "ATC",
+            "TAT",
+            "CAA",
+            "TAC",
+            "RTG",
+            "GAT",
+            "GAT",
+            "TTG",
+            "TAT",
+            "GTA",
+            "GGA",
+            "TCT",
+            "GAC",
+            "CTA",
+            "GAG",
+            "ATA",
+            "GGG",
+            "CAG",
+            "CAT",
+            "AGA",
+            "GCA",
+            "AAA",
+            "ATA",
+            "GAG",
+            "GAA",
+            "CTG",
+            "AGA",
+            "CAA",
+            "CAT",
+            "CTG",
+            "TTG",
+            "AGG",
+            "TGG",
+            "GGA",
+            "TTY",
+            "ATC",
+            "ACA",
+            "CCA",
+            "GAC",
+            "CAG",
+            "AAG",
+            "CAT",
+            "CAG",
+            "AAA",
+            "GAA",
+            "CCT",
+            "CCA",
+            "TTC",
+            "CTT",
+            "TGG",
+            "ATG",
+            "GGT",
+            "TAT",
+            "GAG",
+            "CTC",
+            "CAT",
+            "CCT",
+            "GAT",
+            "AAA",
+            "TGG",
+            "ACA",
+            "GTA",
+            "CAG",
+            "CCT",
+            "ATA",
+            "GTG",
+            "CTG",
+            "CCA",
+            "GAA",
+            "AAA",
+            "GAC",
+            "AGC",
+            "TGG",
+            "ACT",
+            "GTC",
+            "AAT",
+            "GAC",
+            "ATA",
+            "CAG",
+            "AAR",
+            "TTA",
+            "GTG",
+            "GGA",
+            "AAA",
+            "TTG",
+            "AAT",
+            "TGG",
+            "GCA",
+            "AGT",
+            "CAA",
+            "ATT",
+            "TAT",
+            "GCA",
+            "GGG",
+            "ATC",
+            "AAG",
+            "GTA",
+            "AAG",
+            "CAA",
+            "TTA",
+            "TGT",
+            "AAA",
+            "CTC",
+            "CTT",
+            "AGG",
+            "GGA",
+            "GCT",
+            "AAA",
+            "GCA",
+            "CTA",
+            "ACA",
+            "GAA",
+            "GTA",
+            "ATA",
+            "CCA",
+            "CTA",
+            "ACA",
+            "AAA",
+            "GAA",
+            "GCA",
+            "GAG"
+          ],
+          "mutationLine": [
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " M ",
+            " - ",
+            " - ",
+            " - ",
+            " A ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " N ",
+            " - ",
+            " - ",
+            " R ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "KR ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "LI ",
+            " - ",
+            " - ",
+            " N ",
+            " - ",
+            " - ",
+            " - ",
+            " A ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " E ",
+            " E ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " G ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "MV ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " A ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " - ",
+            " - ",
+            " - ",
+            " Q ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " A ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " K ",
+            " - ",
+            " - ",
+            " - "
+          ]
+        }
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "8.8",
+          "publishDate": "2019-02-13"
+        },
+        "gene": {
+          "name": "RT"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "ABC",
+              "displayAbbr": "ABC"
+            },
+            "score": 65.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215I",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F cause intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF. T215S/C/D/E/I/V/N/A/L do not reduce NRTI susceptibility but arise from viruses that once contained T215Y/F. The presence of one of these revertant mutations suggests that the patient may have once had a majority virus population with T215Y/F."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "AZT",
+              "displayAbbr": "AZT"
+            },
+            "score": 75.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215I",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F cause intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF. T215S/C/D/E/I/V/N/A/L do not reduce NRTI susceptibility but arise from viruses that once contained T215Y/F. The presence of one of these revertant mutations suggests that the patient may have once had a majority virus population with T215Y/F."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "D4T",
+              "displayAbbr": "D4T"
+            },
+            "score": 60.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215I",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F cause intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF. T215S/C/D/E/I/V/N/A/L do not reduce NRTI susceptibility but arise from viruses that once contained T215Y/F. The presence of one of these revertant mutations suggests that the patient may have once had a majority virus population with T215Y/F."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "DDI",
+              "displayAbbr": "DDI"
+            },
+            "score": 50.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215I",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F cause intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF. T215S/C/D/E/I/V/N/A/L do not reduce NRTI susceptibility but arise from viruses that once contained T215Y/F. The presence of one of these revertant mutations suggests that the patient may have once had a majority virus population with T215Y/F."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "FTC",
+              "displayAbbr": "FTC"
+            },
+            "score": 70.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "LMV",
+              "displayAbbr": "3TC"
+            },
+            "score": 70.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "TDF",
+              "displayAbbr": "TDF"
+            },
+            "score": 20.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M184V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M184V/I cause high-level in vitro resistance to 3TC and FTC and low-level resistance to ddI and ABC. However, M184V/I are not contraindications to continued treatment with 3TC or FTC because they increase susceptibility to AZT, TDF and d4T and are associated with clinically significant reductions in HIV-1 replication."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215I",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y/F cause intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF. T215S/C/D/E/I/V/N/A/L do not reduce NRTI susceptibility but arise from viruses that once contained T215Y/F. The presence of one of these revertant mutations suggests that the patient may have once had a majority virus population with T215Y/F."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K70R",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K70R causes intermediate resistance to AZT and possibly low-level resistance to D4T, DDI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K219Q",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "K219Q/E are accessory TAMS associated with reduced susceptibility to AZT and possibly d4T."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "DOR",
+              "displayAbbr": "DOR"
+            },
+            "score": 30.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L100I",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "L100I is a non-polymorphic mutation that usually occurs in combination with K103N. In this setting it causes high-level resistance to NVP, EFV, and RPV and intermediate resistance to ETR. It has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Preliminary data suggests it is contributes low to intermediate reductions in DOR susceptibility when it occurs in combination with K103N."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L100I",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "L100I is a non-polymorphic mutation that usually occurs in combination with K103N. In this setting it causes high-level resistance to NVP, EFV, and RPV and intermediate resistance to ETR. It has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Preliminary data suggests it is contributes low to intermediate reductions in DOR susceptibility when it occurs in combination with K103N."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "K103N",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "K103N is a non-polymorphic mutation that causes high-level reductions in NVP and EFV susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "EFV",
+              "displayAbbr": "EFV"
+            },
+            "score": 120.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L100I",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "L100I is a non-polymorphic mutation that usually occurs in combination with K103N. In this setting it causes high-level resistance to NVP, EFV, and RPV and intermediate resistance to ETR. It has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Preliminary data suggests it is contributes low to intermediate reductions in DOR susceptibility when it occurs in combination with K103N."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K103N",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "K103N is a non-polymorphic mutation that causes high-level reductions in NVP and EFV susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "ETR",
+              "displayAbbr": "ETR"
+            },
+            "score": 30.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L100I",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "L100I is a non-polymorphic mutation that usually occurs in combination with K103N. In this setting it causes high-level resistance to NVP, EFV, and RPV and intermediate resistance to ETR. It has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Preliminary data suggests it is contributes low to intermediate reductions in DOR susceptibility when it occurs in combination with K103N."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "NVP",
+              "displayAbbr": "NVP"
+            },
+            "score": 120.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L100I",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "L100I is a non-polymorphic mutation that usually occurs in combination with K103N. In this setting it causes high-level resistance to NVP, EFV, and RPV and intermediate resistance to ETR. It has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Preliminary data suggests it is contributes low to intermediate reductions in DOR susceptibility when it occurs in combination with K103N."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K103N",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "K103N is a non-polymorphic mutation that causes high-level reductions in NVP and EFV susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "RPV",
+              "displayAbbr": "RPV"
+            },
+            "score": 60.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L100I",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "L100I is a non-polymorphic mutation that usually occurs in combination with K103N. In this setting it causes high-level resistance to NVP, EFV, and RPV and intermediate resistance to ETR. It has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Preliminary data suggests it is contributes low to intermediate reductions in DOR susceptibility when it occurs in combination with K103N."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          }
+        ]
+      }
+    ]
+  }
+]

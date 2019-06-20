@@ -1,0 +1,1468 @@
+[
+  {
+    "inputSequence": {
+      "header": "unk",
+      "SHA512": "98d2191b16fdb4706da0437509330261617790f8a2b74f03570940ed644f24d299a0bb3b50798f88a4282d4f073f146f67479f232bec1aa839ba00c9ac8f132a"
+    },
+    "subtypeText": "B (5.72%)",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 99,
+        "gene": {
+          "name": "PR",
+          "length": 99
+        },
+        "mutations": [
+          {
+            "consensus": "L",
+            "position": 10,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 15,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 20,
+            "AAs": "T",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "E",
+            "position": 34,
+            "AAs": "Q",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "E",
+            "position": 35,
+            "AAs": "DE",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "M",
+            "position": 36,
+            "AAs": "IM",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "N",
+            "position": 37,
+            "AAs": "D",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 54,
+            "AAs": "A",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 62,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 63,
+            "AAs": "P",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "C",
+            "position": 67,
+            "AAs": "F",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "A",
+            "position": 71,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "G",
+            "position": 73,
+            "AAs": "T",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "V",
+            "position": 77,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "P",
+            "position": 79,
+            "AAs": "D",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 84,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 90,
+            "AAs": "M",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 93,
+            "AAs": "L",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "C",
+            "position": 95,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "I54A"
+          },
+          {
+            "text": "G73T"
+          },
+          {
+            "text": "I84V"
+          },
+          {
+            "text": "L90M"
+          }
+        ],
+        "alignedNAs": "CCTCAGATCACTCTTTGGCAACGACCCATCGTCACAATAAAGGTAGGGGGGCAGCTRACGGAAGCTCTATTAGATACAGGAGCAGATGATACAGTATTACAAGAMATRGATTTGCCAGGAAGATGGAAACCAAAAATGATAGGGGGAATTGGAGGTTTTGCCAAAGTAAGACAGTATGATCAGGTACCCATAGAGATCTTTGGACATAAAGTTATAACTACAGTATTAATAGGAGATACACCTGTCAACGTAATTGGTAGAAATCTGATGACTCAGCTTGGAGTCACTTTAAATTTT",
+        "alignedAAs": "PQITLWQRPIVTIKVGGQLTEALLDTGADDTVLQDIDLPGRWKPKMIGGIGGFAKVRQYDQVPIEIFGHKVITTVLIGDTPVNVIGRNLMTQLGVTLNF",
+        "prettyPairwise": {
+          "positionLine": [
+            " 1 ",
+            " 2 ",
+            " 3 ",
+            " 4 ",
+            " 5 ",
+            " 6 ",
+            " 7 ",
+            " 8 ",
+            " 9 ",
+            "10 ",
+            "11 ",
+            "12 ",
+            "13 ",
+            "14 ",
+            "15 ",
+            "16 ",
+            "17 ",
+            "18 ",
+            "19 ",
+            "20 ",
+            "21 ",
+            "22 ",
+            "23 ",
+            "24 ",
+            "25 ",
+            "26 ",
+            "27 ",
+            "28 ",
+            "29 ",
+            "30 ",
+            "31 ",
+            "32 ",
+            "33 ",
+            "34 ",
+            "35 ",
+            "36 ",
+            "37 ",
+            "38 ",
+            "39 ",
+            "40 ",
+            "41 ",
+            "42 ",
+            "43 ",
+            "44 ",
+            "45 ",
+            "46 ",
+            "47 ",
+            "48 ",
+            "49 ",
+            "50 ",
+            "51 ",
+            "52 ",
+            "53 ",
+            "54 ",
+            "55 ",
+            "56 ",
+            "57 ",
+            "58 ",
+            "59 ",
+            "60 ",
+            "61 ",
+            "62 ",
+            "63 ",
+            "64 ",
+            "65 ",
+            "66 ",
+            "67 ",
+            "68 ",
+            "69 ",
+            "70 ",
+            "71 ",
+            "72 ",
+            "73 ",
+            "74 ",
+            "75 ",
+            "76 ",
+            "77 ",
+            "78 ",
+            "79 ",
+            "80 ",
+            "81 ",
+            "82 ",
+            "83 ",
+            "84 ",
+            "85 ",
+            "86 ",
+            "87 ",
+            "88 ",
+            "89 ",
+            "90 ",
+            "91 ",
+            "92 ",
+            "93 ",
+            "94 ",
+            "95 ",
+            "96 ",
+            "97 ",
+            "98 ",
+            "99 "
+          ],
+          "refAALine": [
+            " P ",
+            " Q ",
+            " I ",
+            " T ",
+            " L ",
+            " W ",
+            " Q ",
+            " R ",
+            " P ",
+            " L ",
+            " V ",
+            " T ",
+            " I ",
+            " K ",
+            " I ",
+            " G ",
+            " G ",
+            " Q ",
+            " L ",
+            " K ",
+            " E ",
+            " A ",
+            " L ",
+            " L ",
+            " D ",
+            " T ",
+            " G ",
+            " A ",
+            " D ",
+            " D ",
+            " T ",
+            " V ",
+            " L ",
+            " E ",
+            " E ",
+            " M ",
+            " N ",
+            " L ",
+            " P ",
+            " G ",
+            " R ",
+            " W ",
+            " K ",
+            " P ",
+            " K ",
+            " M ",
+            " I ",
+            " G ",
+            " G ",
+            " I ",
+            " G ",
+            " G ",
+            " F ",
+            " I ",
+            " K ",
+            " V ",
+            " R ",
+            " Q ",
+            " Y ",
+            " D ",
+            " Q ",
+            " I ",
+            " L ",
+            " I ",
+            " E ",
+            " I ",
+            " C ",
+            " G ",
+            " H ",
+            " K ",
+            " A ",
+            " I ",
+            " G ",
+            " T ",
+            " V ",
+            " L ",
+            " V ",
+            " G ",
+            " P ",
+            " T ",
+            " P ",
+            " V ",
+            " N ",
+            " I ",
+            " I ",
+            " G ",
+            " R ",
+            " N ",
+            " L ",
+            " L ",
+            " T ",
+            " Q ",
+            " I ",
+            " G ",
+            " C ",
+            " T ",
+            " L ",
+            " N ",
+            " F "
+          ],
+          "alignedNAsLine": [
+            "CCT",
+            "CAG",
+            "ATC",
+            "ACT",
+            "CTT",
+            "TGG",
+            "CAA",
+            "CGA",
+            "CCC",
+            "ATC",
+            "GTC",
+            "ACA",
+            "ATA",
+            "AAG",
+            "GTA",
+            "GGG",
+            "GGG",
+            "CAG",
+            "CTR",
+            "ACG",
+            "GAA",
+            "GCT",
+            "CTA",
+            "TTA",
+            "GAT",
+            "ACA",
+            "GGA",
+            "GCA",
+            "GAT",
+            "GAT",
+            "ACA",
+            "GTA",
+            "TTA",
+            "CAA",
+            "GAM",
+            "ATR",
+            "GAT",
+            "TTG",
+            "CCA",
+            "GGA",
+            "AGA",
+            "TGG",
+            "AAA",
+            "CCA",
+            "AAA",
+            "ATG",
+            "ATA",
+            "GGG",
+            "GGA",
+            "ATT",
+            "GGA",
+            "GGT",
+            "TTT",
+            "GCC",
+            "AAA",
+            "GTA",
+            "AGA",
+            "CAG",
+            "TAT",
+            "GAT",
+            "CAG",
+            "GTA",
+            "CCC",
+            "ATA",
+            "GAG",
+            "ATC",
+            "TTT",
+            "GGA",
+            "CAT",
+            "AAA",
+            "GTT",
+            "ATA",
+            "ACT",
+            "ACA",
+            "GTA",
+            "TTA",
+            "ATA",
+            "GGA",
+            "GAT",
+            "ACA",
+            "CCT",
+            "GTC",
+            "AAC",
+            "GTA",
+            "ATT",
+            "GGT",
+            "AGA",
+            "AAT",
+            "CTG",
+            "ATG",
+            "ACT",
+            "CAG",
+            "CTT",
+            "GGA",
+            "GTC",
+            "ACT",
+            "TTA",
+            "AAT",
+            "TTT"
+          ],
+          "mutationLine": [
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " T ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " Q ",
+            "ED ",
+            "MI ",
+            " D ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " A ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " P ",
+            " - ",
+            " - ",
+            " - ",
+            " F ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " T ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " - ",
+            " D ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " M ",
+            " - ",
+            " - ",
+            " L ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - "
+          ]
+        }
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "8.8",
+          "publishDate": "2019-02-13"
+        },
+        "gene": {
+          "name": "PR"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "ATV",
+              "displayAbbr": "ATV/r"
+            },
+            "score": 135.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "K20T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "K20T is a non-polymorphic accessory PI-selected mutation associated with reduced susceptibility to each of the PIs except DRV and TPV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 25.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "DRV",
+              "displayAbbr": "DRV/r"
+            },
+            "score": 15.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "FPV",
+              "displayAbbr": "FPV/r"
+            },
+            "score": 125.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "K20T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "K20T is a non-polymorphic accessory PI-selected mutation associated with reduced susceptibility to each of the PIs except DRV and TPV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "IDV",
+              "displayAbbr": "IDV/r"
+            },
+            "score": 145.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "K20T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "K20T is a non-polymorphic accessory PI-selected mutation associated with reduced susceptibility to each of the PIs except DRV and TPV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "LPV",
+              "displayAbbr": "LPV/r"
+            },
+            "score": 70.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "NFV",
+              "displayAbbr": "NFV"
+            },
+            "score": 190.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "K20T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "K20T is a non-polymorphic accessory PI-selected mutation associated with reduced susceptibility to each of the PIs except DRV and TPV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "SQV",
+              "displayAbbr": "SQV/r"
+            },
+            "score": 160.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "K20T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "K20T is a non-polymorphic accessory PI-selected mutation associated with reduced susceptibility to each of the PIs except DRV and TPV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 45.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G73T",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "G73S/T/C/A are non-polymorphic accessory PI-selected mutations. They are associated primarily with reduced susceptibility to ATV, SQV, FPV, IDV, and NFV. G73V/D are rare non-polymorphic PI-selected mutations."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "TPV",
+              "displayAbbr": "TPV/r"
+            },
+            "score": 50.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "I54A",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I54A/T/S are non-polymorphic PI-selected mutations that occur almost exclusively in viruses with multiple PI-resistance mutations. I54A/T/S are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I84V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I84V is a non-polymorphic mutation selected by each of the PIs. It causes high-level resistance to ATV, FPV, IDV, NFV and SQV, intermediate resistance to LPV and TPV, and low-level resistance to DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          }
+        ]
+      }
+    ]
+  }
+]

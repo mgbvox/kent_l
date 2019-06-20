@@ -1,0 +1,3186 @@
+[
+  {
+    "inputSequence": {
+      "header": "unk",
+      "SHA512": "f648a556c31ed13f3c77c18cf885a1e9db873bb75a2ebff9927ab0d83c1c832289f890bd67ccc37172ab1a2e6ae5a0c33d3298b8c287fccc3d1a34cd683b99d8"
+    },
+    "subtypeText": "B (2.49%)",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 482,
+        "gene": {
+          "name": "RT",
+          "length": 560
+        },
+        "mutations": [
+          {
+            "consensus": "M",
+            "position": 41,
+            "AAs": "L",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 74,
+            "AAs": "LV",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 123,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 166,
+            "AAs": "R",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 177,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 178,
+            "AAs": "M",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "G",
+            "position": 196,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 210,
+            "AAs": "W",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "R",
+            "position": 211,
+            "AAs": "KR",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 215,
+            "AAs": "Y",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 277,
+            "AAs": "R",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 293,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "P",
+            "position": 294,
+            "AAs": "Q",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "R",
+            "position": 358,
+            "AAs": "KR",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "G",
+            "position": 359,
+            "AAs": "S",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "A",
+            "position": 371,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 377,
+            "AAs": "M",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 382,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 390,
+            "AAs": "R",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "E",
+            "position": 404,
+            "AAs": "D",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "V",
+            "position": 435,
+            "AAs": "L",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 460,
+            "AAs": "N",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "M41L"
+          },
+          {
+            "text": "L74V"
+          },
+          {
+            "text": "L210W"
+          },
+          {
+            "text": "T215Y"
+          }
+        ],
+        "alignedNAs": "CCCATTAGTCCTATTGAAACTGTACCAGTAAAATTAAAGCCAGGAATGGATGGCCCAAAAGTTAAACAATGGCCATTAACAGAAGAAAAAATAAAAGCATTAGTAGAAATTTGTACAGAATTGGAAAAGGAAGGAAAAATTTCAAAAATTGGGCCTGAAAATCCATACAATACTCCAGTATTTGCCATAAAGAAAAAAGACAGTACCAAATGGAGAAAAKTAGTAGATTTCAGAGAACTTAATAAGAGAACTCAAGATTTCTGGGAAGTTCAATTAGGAATACCACATCCCGCAGGGTTAAAGAAGAAAAAATCAGTAACAGTACTGGATGTGGGTGATGCATATTTTTCAGTTCCCTTAGATAAAGAATTCAGGAARTATACTGCATTTACCATACCYAGTATAAACAAYGAGACACCAGGGATTAGATATCAGTACAATGTGCTTCCACAGGGATGGAAAGGATCACCAGCAATATTCCAAAGTAGCATGACAAGAATCTTAGAGCCTTTTAGAAAACAAAATCCTGAGATGGTTATCTATCAATACATGGATGATTTGTATGTAGGATCAGATTTAGAAATAGAGCAGCATAGAACAAAAATAGAGGAACTGAGACAACATCTGTGGARGTGGGGATTTTACACACCAGACAAAAAACATCAGAAAGAACCTCCATTCCTTTGGATGGGTTATGAACTCCATCCTGATAAATGGACAGTACAGCCTATAGTGTTGCCAGAAAARGACAGCTGGACTGTCAATGACATACAGAAGTTAGTGGGAAAATTGAAYTGGGCAAGTCAGATTTATGCAGGGATTAAAGTAAGGCAATTATGTAAACTCCTTAGGGGAACCAAAGCACTAACAGAAGTAGTACAACTAACAGAAGAAGCAGAGCTAGAAYTAGCAGARAACAGGGAGATTCTAAAAGAACCAGTACATGGAGTGTATTATGACCCATCAAAAGAYTTAATAGCAGAAATACAGAAGCAGGGACAAGGCCAATGGACATATCAAATTTATCAAGAGCCATTTAAAAATCTGAAAACAGGAAAGTATGCAAGAATGARAAGTGCTCACACTAATGATGTAAAGCAATTAACAGAGGTAGTGCAAAAAATAGCCATGGAAAGCATAGTAGTATGGGGAAAGACTCCTAAATTTAGACTACCCATACAAAAGGAAACCTGGGAAGCATGGTGGACAGACTATTGGCAAGCTACCTGGATTCCTGAGTGGGAGTTTGTCAATACCCCTCCCTTAGTGAAACTATGGTACCAGTTAGAGAAAGAACCCATATTAGGAGCAGAAACTTTCTATGTAGATGGGGCAGCTAATAGGGAGACTAAATTAGGAAAAGCAGGATATGTTACTAACAGAGGAAGACAAAARGTTGTCTCCCTAACTGACACAACAAATCAGAAGACTGAGTTACAAGCAATT",
+        "alignedAAs": "PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTELEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKVVDFRELNKRTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLDKEFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTRILEPFRKQNPEMVIYQYMDDLYVGSDLEIEQHRTKIEELRQHLWKWGFYTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQIYAGIKVRQLCKLLRGTKALTEVVQLTEEAELELAENREILKEPVHGVYYDPSKDLIAEIQKQGQGQWTYQIYQEPFKNLKTGKYARMKSAHTNDVKQLTEVVQKIAMESIVVWGKTPKFRLPIQKETWEAWWTDYWQATWIPEWEFVNTPPLVKLWYQLEKEPILGAETFYVDGAANRETKLGKAGYVTNRGRQKVVSLTDTTNQKTELQAI",
+        "prettyPairwise": {
+          "positionLine": [
+            " 1 ",
+            " 2 ",
+            " 3 ",
+            " 4 ",
+            " 5 ",
+            " 6 ",
+            " 7 ",
+            " 8 ",
+            " 9 ",
+            "10 ",
+            "11 ",
+            "12 ",
+            "13 ",
+            "14 ",
+            "15 ",
+            "16 ",
+            "17 ",
+            "18 ",
+            "19 ",
+            "20 ",
+            "21 ",
+            "22 ",
+            "23 ",
+            "24 ",
+            "25 ",
+            "26 ",
+            "27 ",
+            "28 ",
+            "29 ",
+            "30 ",
+            "31 ",
+            "32 ",
+            "33 ",
+            "34 ",
+            "35 ",
+            "36 ",
+            "37 ",
+            "38 ",
+            "39 ",
+            "40 ",
+            "41 ",
+            "42 ",
+            "43 ",
+            "44 ",
+            "45 ",
+            "46 ",
+            "47 ",
+            "48 ",
+            "49 ",
+            "50 ",
+            "51 ",
+            "52 ",
+            "53 ",
+            "54 ",
+            "55 ",
+            "56 ",
+            "57 ",
+            "58 ",
+            "59 ",
+            "60 ",
+            "61 ",
+            "62 ",
+            "63 ",
+            "64 ",
+            "65 ",
+            "66 ",
+            "67 ",
+            "68 ",
+            "69 ",
+            "70 ",
+            "71 ",
+            "72 ",
+            "73 ",
+            "74 ",
+            "75 ",
+            "76 ",
+            "77 ",
+            "78 ",
+            "79 ",
+            "80 ",
+            "81 ",
+            "82 ",
+            "83 ",
+            "84 ",
+            "85 ",
+            "86 ",
+            "87 ",
+            "88 ",
+            "89 ",
+            "90 ",
+            "91 ",
+            "92 ",
+            "93 ",
+            "94 ",
+            "95 ",
+            "96 ",
+            "97 ",
+            "98 ",
+            "99 ",
+            "100",
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110",
+            "111",
+            "112",
+            "113",
+            "114",
+            "115",
+            "116",
+            "117",
+            "118",
+            "119",
+            "120",
+            "121",
+            "122",
+            "123",
+            "124",
+            "125",
+            "126",
+            "127",
+            "128",
+            "129",
+            "130",
+            "131",
+            "132",
+            "133",
+            "134",
+            "135",
+            "136",
+            "137",
+            "138",
+            "139",
+            "140",
+            "141",
+            "142",
+            "143",
+            "144",
+            "145",
+            "146",
+            "147",
+            "148",
+            "149",
+            "150",
+            "151",
+            "152",
+            "153",
+            "154",
+            "155",
+            "156",
+            "157",
+            "158",
+            "159",
+            "160",
+            "161",
+            "162",
+            "163",
+            "164",
+            "165",
+            "166",
+            "167",
+            "168",
+            "169",
+            "170",
+            "171",
+            "172",
+            "173",
+            "174",
+            "175",
+            "176",
+            "177",
+            "178",
+            "179",
+            "180",
+            "181",
+            "182",
+            "183",
+            "184",
+            "185",
+            "186",
+            "187",
+            "188",
+            "189",
+            "190",
+            "191",
+            "192",
+            "193",
+            "194",
+            "195",
+            "196",
+            "197",
+            "198",
+            "199",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211",
+            "212",
+            "213",
+            "214",
+            "215",
+            "216",
+            "217",
+            "218",
+            "219",
+            "220",
+            "221",
+            "222",
+            "223",
+            "224",
+            "225",
+            "226",
+            "227",
+            "228",
+            "229",
+            "230",
+            "231",
+            "232",
+            "233",
+            "234",
+            "235",
+            "236",
+            "237",
+            "238",
+            "239",
+            "240",
+            "241",
+            "242",
+            "243",
+            "244",
+            "245",
+            "246",
+            "247",
+            "248",
+            "249",
+            "250",
+            "251",
+            "252",
+            "253",
+            "254",
+            "255",
+            "256",
+            "257",
+            "258",
+            "259",
+            "260",
+            "261",
+            "262",
+            "263",
+            "264",
+            "265",
+            "266",
+            "267",
+            "268",
+            "269",
+            "270",
+            "271",
+            "272",
+            "273",
+            "274",
+            "275",
+            "276",
+            "277",
+            "278",
+            "279",
+            "280",
+            "281",
+            "282",
+            "283",
+            "284",
+            "285",
+            "286",
+            "287",
+            "288",
+            "289",
+            "290",
+            "291",
+            "292",
+            "293",
+            "294",
+            "295",
+            "296",
+            "297",
+            "298",
+            "299",
+            "300",
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310",
+            "311",
+            "312",
+            "313",
+            "314",
+            "315",
+            "316",
+            "317",
+            "318",
+            "319",
+            "320",
+            "321",
+            "322",
+            "323",
+            "324",
+            "325",
+            "326",
+            "327",
+            "328",
+            "329",
+            "330",
+            "331",
+            "332",
+            "333",
+            "334",
+            "335",
+            "336",
+            "337",
+            "338",
+            "339",
+            "340",
+            "341",
+            "342",
+            "343",
+            "344",
+            "345",
+            "346",
+            "347",
+            "348",
+            "349",
+            "350",
+            "351",
+            "352",
+            "353",
+            "354",
+            "355",
+            "356",
+            "357",
+            "358",
+            "359",
+            "360",
+            "361",
+            "362",
+            "363",
+            "364",
+            "365",
+            "366",
+            "367",
+            "368",
+            "369",
+            "370",
+            "371",
+            "372",
+            "373",
+            "374",
+            "375",
+            "376",
+            "377",
+            "378",
+            "379",
+            "380",
+            "381",
+            "382",
+            "383",
+            "384",
+            "385",
+            "386",
+            "387",
+            "388",
+            "389",
+            "390",
+            "391",
+            "392",
+            "393",
+            "394",
+            "395",
+            "396",
+            "397",
+            "398",
+            "399",
+            "400",
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411",
+            "412",
+            "413",
+            "414",
+            "415",
+            "416",
+            "417",
+            "418",
+            "419",
+            "420",
+            "421",
+            "422",
+            "423",
+            "424",
+            "425",
+            "426",
+            "427",
+            "428",
+            "429",
+            "430",
+            "431",
+            "432",
+            "433",
+            "434",
+            "435",
+            "436",
+            "437",
+            "438",
+            "439",
+            "440",
+            "441",
+            "442",
+            "443",
+            "444",
+            "445",
+            "446",
+            "447",
+            "448",
+            "449",
+            "450",
+            "451",
+            "452",
+            "453",
+            "454",
+            "455",
+            "456",
+            "457",
+            "458",
+            "459",
+            "460",
+            "461",
+            "462",
+            "463",
+            "464",
+            "465",
+            "466",
+            "467",
+            "468",
+            "469",
+            "470",
+            "471",
+            "472",
+            "473",
+            "474",
+            "475",
+            "476",
+            "477",
+            "478",
+            "479",
+            "480",
+            "481",
+            "482"
+          ],
+          "refAALine": [
+            " P ",
+            " I ",
+            " S ",
+            " P ",
+            " I ",
+            " E ",
+            " T ",
+            " V ",
+            " P ",
+            " V ",
+            " K ",
+            " L ",
+            " K ",
+            " P ",
+            " G ",
+            " M ",
+            " D ",
+            " G ",
+            " P ",
+            " K ",
+            " V ",
+            " K ",
+            " Q ",
+            " W ",
+            " P ",
+            " L ",
+            " T ",
+            " E ",
+            " E ",
+            " K ",
+            " I ",
+            " K ",
+            " A ",
+            " L ",
+            " V ",
+            " E ",
+            " I ",
+            " C ",
+            " T ",
+            " E ",
+            " M ",
+            " E ",
+            " K ",
+            " E ",
+            " G ",
+            " K ",
+            " I ",
+            " S ",
+            " K ",
+            " I ",
+            " G ",
+            " P ",
+            " E ",
+            " N ",
+            " P ",
+            " Y ",
+            " N ",
+            " T ",
+            " P ",
+            " V ",
+            " F ",
+            " A ",
+            " I ",
+            " K ",
+            " K ",
+            " K ",
+            " D ",
+            " S ",
+            " T ",
+            " K ",
+            " W ",
+            " R ",
+            " K ",
+            " L ",
+            " V ",
+            " D ",
+            " F ",
+            " R ",
+            " E ",
+            " L ",
+            " N ",
+            " K ",
+            " R ",
+            " T ",
+            " Q ",
+            " D ",
+            " F ",
+            " W ",
+            " E ",
+            " V ",
+            " Q ",
+            " L ",
+            " G ",
+            " I ",
+            " P ",
+            " H ",
+            " P ",
+            " A ",
+            " G ",
+            " L ",
+            " K ",
+            " K ",
+            " K ",
+            " K ",
+            " S ",
+            " V ",
+            " T ",
+            " V ",
+            " L ",
+            " D ",
+            " V ",
+            " G ",
+            " D ",
+            " A ",
+            " Y ",
+            " F ",
+            " S ",
+            " V ",
+            " P ",
+            " L ",
+            " D ",
+            " K ",
+            " D ",
+            " F ",
+            " R ",
+            " K ",
+            " Y ",
+            " T ",
+            " A ",
+            " F ",
+            " T ",
+            " I ",
+            " P ",
+            " S ",
+            " I ",
+            " N ",
+            " N ",
+            " E ",
+            " T ",
+            " P ",
+            " G ",
+            " I ",
+            " R ",
+            " Y ",
+            " Q ",
+            " Y ",
+            " N ",
+            " V ",
+            " L ",
+            " P ",
+            " Q ",
+            " G ",
+            " W ",
+            " K ",
+            " G ",
+            " S ",
+            " P ",
+            " A ",
+            " I ",
+            " F ",
+            " Q ",
+            " S ",
+            " S ",
+            " M ",
+            " T ",
+            " K ",
+            " I ",
+            " L ",
+            " E ",
+            " P ",
+            " F ",
+            " R ",
+            " K ",
+            " Q ",
+            " N ",
+            " P ",
+            " D ",
+            " I ",
+            " V ",
+            " I ",
+            " Y ",
+            " Q ",
+            " Y ",
+            " M ",
+            " D ",
+            " D ",
+            " L ",
+            " Y ",
+            " V ",
+            " G ",
+            " S ",
+            " D ",
+            " L ",
+            " E ",
+            " I ",
+            " G ",
+            " Q ",
+            " H ",
+            " R ",
+            " T ",
+            " K ",
+            " I ",
+            " E ",
+            " E ",
+            " L ",
+            " R ",
+            " Q ",
+            " H ",
+            " L ",
+            " L ",
+            " R ",
+            " W ",
+            " G ",
+            " F ",
+            " T ",
+            " T ",
+            " P ",
+            " D ",
+            " K ",
+            " K ",
+            " H ",
+            " Q ",
+            " K ",
+            " E ",
+            " P ",
+            " P ",
+            " F ",
+            " L ",
+            " W ",
+            " M ",
+            " G ",
+            " Y ",
+            " E ",
+            " L ",
+            " H ",
+            " P ",
+            " D ",
+            " K ",
+            " W ",
+            " T ",
+            " V ",
+            " Q ",
+            " P ",
+            " I ",
+            " V ",
+            " L ",
+            " P ",
+            " E ",
+            " K ",
+            " D ",
+            " S ",
+            " W ",
+            " T ",
+            " V ",
+            " N ",
+            " D ",
+            " I ",
+            " Q ",
+            " K ",
+            " L ",
+            " V ",
+            " G ",
+            " K ",
+            " L ",
+            " N ",
+            " W ",
+            " A ",
+            " S ",
+            " Q ",
+            " I ",
+            " Y ",
+            " A ",
+            " G ",
+            " I ",
+            " K ",
+            " V ",
+            " K ",
+            " Q ",
+            " L ",
+            " C ",
+            " K ",
+            " L ",
+            " L ",
+            " R ",
+            " G ",
+            " T ",
+            " K ",
+            " A ",
+            " L ",
+            " T ",
+            " E ",
+            " V ",
+            " I ",
+            " P ",
+            " L ",
+            " T ",
+            " E ",
+            " E ",
+            " A ",
+            " E ",
+            " L ",
+            " E ",
+            " L ",
+            " A ",
+            " E ",
+            " N ",
+            " R ",
+            " E ",
+            " I ",
+            " L ",
+            " K ",
+            " E ",
+            " P ",
+            " V ",
+            " H ",
+            " G ",
+            " V ",
+            " Y ",
+            " Y ",
+            " D ",
+            " P ",
+            " S ",
+            " K ",
+            " D ",
+            " L ",
+            " I ",
+            " A ",
+            " E ",
+            " I ",
+            " Q ",
+            " K ",
+            " Q ",
+            " G ",
+            " Q ",
+            " G ",
+            " Q ",
+            " W ",
+            " T ",
+            " Y ",
+            " Q ",
+            " I ",
+            " Y ",
+            " Q ",
+            " E ",
+            " P ",
+            " F ",
+            " K ",
+            " N ",
+            " L ",
+            " K ",
+            " T ",
+            " G ",
+            " K ",
+            " Y ",
+            " A ",
+            " R ",
+            " M ",
+            " R ",
+            " G ",
+            " A ",
+            " H ",
+            " T ",
+            " N ",
+            " D ",
+            " V ",
+            " K ",
+            " Q ",
+            " L ",
+            " T ",
+            " E ",
+            " A ",
+            " V ",
+            " Q ",
+            " K ",
+            " I ",
+            " A ",
+            " T ",
+            " E ",
+            " S ",
+            " I ",
+            " V ",
+            " I ",
+            " W ",
+            " G ",
+            " K ",
+            " T ",
+            " P ",
+            " K ",
+            " F ",
+            " K ",
+            " L ",
+            " P ",
+            " I ",
+            " Q ",
+            " K ",
+            " E ",
+            " T ",
+            " W ",
+            " E ",
+            " A ",
+            " W ",
+            " W ",
+            " T ",
+            " E ",
+            " Y ",
+            " W ",
+            " Q ",
+            " A ",
+            " T ",
+            " W ",
+            " I ",
+            " P ",
+            " E ",
+            " W ",
+            " E ",
+            " F ",
+            " V ",
+            " N ",
+            " T ",
+            " P ",
+            " P ",
+            " L ",
+            " V ",
+            " K ",
+            " L ",
+            " W ",
+            " Y ",
+            " Q ",
+            " L ",
+            " E ",
+            " K ",
+            " E ",
+            " P ",
+            " I ",
+            " V ",
+            " G ",
+            " A ",
+            " E ",
+            " T ",
+            " F ",
+            " Y ",
+            " V ",
+            " D ",
+            " G ",
+            " A ",
+            " A ",
+            " N ",
+            " R ",
+            " E ",
+            " T ",
+            " K ",
+            " L ",
+            " G ",
+            " K ",
+            " A ",
+            " G ",
+            " Y ",
+            " V ",
+            " T ",
+            " D ",
+            " R ",
+            " G ",
+            " R ",
+            " Q ",
+            " K ",
+            " V ",
+            " V ",
+            " S ",
+            " L ",
+            " T ",
+            " D ",
+            " T ",
+            " T ",
+            " N ",
+            " Q ",
+            " K ",
+            " T ",
+            " E ",
+            " L ",
+            " Q ",
+            " A ",
+            " I "
+          ],
+          "alignedNAsLine": [
+            "CCC",
+            "ATT",
+            "AGT",
+            "CCT",
+            "ATT",
+            "GAA",
+            "ACT",
+            "GTA",
+            "CCA",
+            "GTA",
+            "AAA",
+            "TTA",
+            "AAG",
+            "CCA",
+            "GGA",
+            "ATG",
+            "GAT",
+            "GGC",
+            "CCA",
+            "AAA",
+            "GTT",
+            "AAA",
+            "CAA",
+            "TGG",
+            "CCA",
+            "TTA",
+            "ACA",
+            "GAA",
+            "GAA",
+            "AAA",
+            "ATA",
+            "AAA",
+            "GCA",
+            "TTA",
+            "GTA",
+            "GAA",
+            "ATT",
+            "TGT",
+            "ACA",
+            "GAA",
+            "TTG",
+            "GAA",
+            "AAG",
+            "GAA",
+            "GGA",
+            "AAA",
+            "ATT",
+            "TCA",
+            "AAA",
+            "ATT",
+            "GGG",
+            "CCT",
+            "GAA",
+            "AAT",
+            "CCA",
+            "TAC",
+            "AAT",
+            "ACT",
+            "CCA",
+            "GTA",
+            "TTT",
+            "GCC",
+            "ATA",
+            "AAG",
+            "AAA",
+            "AAA",
+            "GAC",
+            "AGT",
+            "ACC",
+            "AAA",
+            "TGG",
+            "AGA",
+            "AAA",
+            "KTA",
+            "GTA",
+            "GAT",
+            "TTC",
+            "AGA",
+            "GAA",
+            "CTT",
+            "AAT",
+            "AAG",
+            "AGA",
+            "ACT",
+            "CAA",
+            "GAT",
+            "TTC",
+            "TGG",
+            "GAA",
+            "GTT",
+            "CAA",
+            "TTA",
+            "GGA",
+            "ATA",
+            "CCA",
+            "CAT",
+            "CCC",
+            "GCA",
+            "GGG",
+            "TTA",
+            "AAG",
+            "AAG",
+            "AAA",
+            "AAA",
+            "TCA",
+            "GTA",
+            "ACA",
+            "GTA",
+            "CTG",
+            "GAT",
+            "GTG",
+            "GGT",
+            "GAT",
+            "GCA",
+            "TAT",
+            "TTT",
+            "TCA",
+            "GTT",
+            "CCC",
+            "TTA",
+            "GAT",
+            "AAA",
+            "GAA",
+            "TTC",
+            "AGG",
+            "AAR",
+            "TAT",
+            "ACT",
+            "GCA",
+            "TTT",
+            "ACC",
+            "ATA",
+            "CCY",
+            "AGT",
+            "ATA",
+            "AAC",
+            "AAY",
+            "GAG",
+            "ACA",
+            "CCA",
+            "GGG",
+            "ATT",
+            "AGA",
+            "TAT",
+            "CAG",
+            "TAC",
+            "AAT",
+            "GTG",
+            "CTT",
+            "CCA",
+            "CAG",
+            "GGA",
+            "TGG",
+            "AAA",
+            "GGA",
+            "TCA",
+            "CCA",
+            "GCA",
+            "ATA",
+            "TTC",
+            "CAA",
+            "AGT",
+            "AGC",
+            "ATG",
+            "ACA",
+            "AGA",
+            "ATC",
+            "TTA",
+            "GAG",
+            "CCT",
+            "TTT",
+            "AGA",
+            "AAA",
+            "CAA",
+            "AAT",
+            "CCT",
+            "GAG",
+            "ATG",
+            "GTT",
+            "ATC",
+            "TAT",
+            "CAA",
+            "TAC",
+            "ATG",
+            "GAT",
+            "GAT",
+            "TTG",
+            "TAT",
+            "GTA",
+            "GGA",
+            "TCA",
+            "GAT",
+            "TTA",
+            "GAA",
+            "ATA",
+            "GAG",
+            "CAG",
+            "CAT",
+            "AGA",
+            "ACA",
+            "AAA",
+            "ATA",
+            "GAG",
+            "GAA",
+            "CTG",
+            "AGA",
+            "CAA",
+            "CAT",
+            "CTG",
+            "TGG",
+            "ARG",
+            "TGG",
+            "GGA",
+            "TTT",
+            "TAC",
+            "ACA",
+            "CCA",
+            "GAC",
+            "AAA",
+            "AAA",
+            "CAT",
+            "CAG",
+            "AAA",
+            "GAA",
+            "CCT",
+            "CCA",
+            "TTC",
+            "CTT",
+            "TGG",
+            "ATG",
+            "GGT",
+            "TAT",
+            "GAA",
+            "CTC",
+            "CAT",
+            "CCT",
+            "GAT",
+            "AAA",
+            "TGG",
+            "ACA",
+            "GTA",
+            "CAG",
+            "CCT",
+            "ATA",
+            "GTG",
+            "TTG",
+            "CCA",
+            "GAA",
+            "AAR",
+            "GAC",
+            "AGC",
+            "TGG",
+            "ACT",
+            "GTC",
+            "AAT",
+            "GAC",
+            "ATA",
+            "CAG",
+            "AAG",
+            "TTA",
+            "GTG",
+            "GGA",
+            "AAA",
+            "TTG",
+            "AAY",
+            "TGG",
+            "GCA",
+            "AGT",
+            "CAG",
+            "ATT",
+            "TAT",
+            "GCA",
+            "GGG",
+            "ATT",
+            "AAA",
+            "GTA",
+            "AGG",
+            "CAA",
+            "TTA",
+            "TGT",
+            "AAA",
+            "CTC",
+            "CTT",
+            "AGG",
+            "GGA",
+            "ACC",
+            "AAA",
+            "GCA",
+            "CTA",
+            "ACA",
+            "GAA",
+            "GTA",
+            "GTA",
+            "CAA",
+            "CTA",
+            "ACA",
+            "GAA",
+            "GAA",
+            "GCA",
+            "GAG",
+            "CTA",
+            "GAA",
+            "YTA",
+            "GCA",
+            "GAR",
+            "AAC",
+            "AGG",
+            "GAG",
+            "ATT",
+            "CTA",
+            "AAA",
+            "GAA",
+            "CCA",
+            "GTA",
+            "CAT",
+            "GGA",
+            "GTG",
+            "TAT",
+            "TAT",
+            "GAC",
+            "CCA",
+            "TCA",
+            "AAA",
+            "GAY",
+            "TTA",
+            "ATA",
+            "GCA",
+            "GAA",
+            "ATA",
+            "CAG",
+            "AAG",
+            "CAG",
+            "GGA",
+            "CAA",
+            "GGC",
+            "CAA",
+            "TGG",
+            "ACA",
+            "TAT",
+            "CAA",
+            "ATT",
+            "TAT",
+            "CAA",
+            "GAG",
+            "CCA",
+            "TTT",
+            "AAA",
+            "AAT",
+            "CTG",
+            "AAA",
+            "ACA",
+            "GGA",
+            "AAG",
+            "TAT",
+            "GCA",
+            "AGA",
+            "ATG",
+            "ARA",
+            "AGT",
+            "GCT",
+            "CAC",
+            "ACT",
+            "AAT",
+            "GAT",
+            "GTA",
+            "AAG",
+            "CAA",
+            "TTA",
+            "ACA",
+            "GAG",
+            "GTA",
+            "GTG",
+            "CAA",
+            "AAA",
+            "ATA",
+            "GCC",
+            "ATG",
+            "GAA",
+            "AGC",
+            "ATA",
+            "GTA",
+            "GTA",
+            "TGG",
+            "GGA",
+            "AAG",
+            "ACT",
+            "CCT",
+            "AAA",
+            "TTT",
+            "AGA",
+            "CTA",
+            "CCC",
+            "ATA",
+            "CAA",
+            "AAG",
+            "GAA",
+            "ACC",
+            "TGG",
+            "GAA",
+            "GCA",
+            "TGG",
+            "TGG",
+            "ACA",
+            "GAC",
+            "TAT",
+            "TGG",
+            "CAA",
+            "GCT",
+            "ACC",
+            "TGG",
+            "ATT",
+            "CCT",
+            "GAG",
+            "TGG",
+            "GAG",
+            "TTT",
+            "GTC",
+            "AAT",
+            "ACC",
+            "CCT",
+            "CCC",
+            "TTA",
+            "GTG",
+            "AAA",
+            "CTA",
+            "TGG",
+            "TAC",
+            "CAG",
+            "TTA",
+            "GAG",
+            "AAA",
+            "GAA",
+            "CCC",
+            "ATA",
+            "TTA",
+            "GGA",
+            "GCA",
+            "GAA",
+            "ACT",
+            "TTC",
+            "TAT",
+            "GTA",
+            "GAT",
+            "GGG",
+            "GCA",
+            "GCT",
+            "AAT",
+            "AGG",
+            "GAG",
+            "ACT",
+            "AAA",
+            "TTA",
+            "GGA",
+            "AAA",
+            "GCA",
+            "GGA",
+            "TAT",
+            "GTT",
+            "ACT",
+            "AAC",
+            "AGA",
+            "GGA",
+            "AGA",
+            "CAA",
+            "AAR",
+            "GTT",
+            "GTC",
+            "TCC",
+            "CTA",
+            "ACT",
+            "GAC",
+            "ACA",
+            "ACA",
+            "AAT",
+            "CAG",
+            "AAG",
+            "ACT",
+            "GAG",
+            "TTA",
+            "CAA",
+            "GCA",
+            "ATT"
+          ],
+          "mutationLine": [
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " L ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "LV ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " E ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " R ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " E ",
+            " M ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " E ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " W ",
+            "RK ",
+            " - ",
+            " - ",
+            " - ",
+            " Y ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " R ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " Q ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "RK ",
+            " S ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " M ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " R ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " D ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " L ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " N ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - "
+          ]
+        }
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "8.8",
+          "publishDate": "2019-02-13"
+        },
+        "gene": {
+          "name": "RT"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "ABC",
+              "displayAbbr": "ABC"
+            },
+            "score": 90.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L74V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L74V/I cause high-level resistance to ddI and intermediate resistance to ABC."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "AZT",
+              "displayAbbr": "AZT"
+            },
+            "score": 100.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 40.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "D4T",
+              "displayAbbr": "D4T"
+            },
+            "score": 100.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 40.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "DDI",
+              "displayAbbr": "DDI"
+            },
+            "score": 125.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L74V",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L74V/I cause high-level resistance to ddI and intermediate resistance to ABC."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "FTC",
+              "displayAbbr": "FTC"
+            },
+            "score": 15.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "LMV",
+              "displayAbbr": "3TC"
+            },
+            "score": 15.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "TDF",
+              "displayAbbr": "TDF"
+            },
+            "score": 55.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "DOR",
+              "displayAbbr": "DOR"
+            },
+            "score": 0.0,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "EFV",
+              "displayAbbr": "EFV"
+            },
+            "score": 0.0,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "ETR",
+              "displayAbbr": "ETR"
+            },
+            "score": 0.0,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "NVP",
+              "displayAbbr": "NVP"
+            },
+            "score": 0.0,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "RPV",
+              "displayAbbr": "RPV"
+            },
+            "score": 0.0,
+            "partialScores": [],
+            "text": "Susceptible"
+          }
+        ]
+      }
+    ]
+  }
+]

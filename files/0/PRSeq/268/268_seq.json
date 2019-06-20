@@ -1,0 +1,1869 @@
+[
+  {
+    "inputSequence": {
+      "header": "unk",
+      "SHA512": "1244f7974d22ec78cf10a1d4b4ffd2aa450cc0ffe248d3c5d86566d4dcbcd9e14f0f458899c5e4cf26c57779e0b76039253dd5b1514ddd622f91993bcefef0ea"
+    },
+    "subtypeText": "B (4.04%)",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 99,
+        "gene": {
+          "name": "PR",
+          "length": 99
+        },
+        "mutations": [
+          {
+            "consensus": "L",
+            "position": 10,
+            "AAs": "R",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "V",
+            "position": 32,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "N",
+            "position": 37,
+            "AAs": "H",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "R",
+            "position": 41,
+            "AAs": "K",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "M",
+            "position": 46,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": true
+          },
+          {
+            "consensus": "I",
+            "position": 47,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 50,
+            "AAs": "L",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 63,
+            "AAs": "P",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "A",
+            "position": 71,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 72,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "V",
+            "position": 77,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "V",
+            "position": 82,
+            "AAs": "T",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 90,
+            "AAs": "M",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 93,
+            "AAs": "L",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "V32I"
+          },
+          {
+            "text": "M46I"
+          },
+          {
+            "text": "I47V"
+          },
+          {
+            "text": "I50L"
+          },
+          {
+            "text": "V82T"
+          },
+          {
+            "text": "L90M"
+          }
+        ],
+        "alignedNAs": "CCTCAGATCACTCTTTGGCAACGACCCCGCGTCACAATAAAGATAGGGGGGCAGCTAAAGGAAGCTCTATTAGATACAGGAGCAGATGATACAATACTAGAGGAAATGCATTTGCCAGGAAAATGGAAGCCAAAAATAGTAGGGGGACTTGGAGGTTTTATCAAAGTAAGACAGTATGATCAGATACCTATAGAAATCTGTGGACATAAAATTGTAGGTACAGTATTAATAGGACCTACACCTACCAACATAATTGGAAGAAATCTRATGACTCAGCTTGGGTGCACTTTAAATTTT",
+        "alignedAAs": "PQITLWQRPRVTIKIGGQLKEALLDTGADDTILEEMHLPGKWKPKIVGGLGGFIKVRQYDQIPIEICGHKIVGTVLIGPTPTNIIGRNLMTQLGCTLNF",
+        "prettyPairwise": {
+          "positionLine": [
+            " 1 ",
+            " 2 ",
+            " 3 ",
+            " 4 ",
+            " 5 ",
+            " 6 ",
+            " 7 ",
+            " 8 ",
+            " 9 ",
+            "10 ",
+            "11 ",
+            "12 ",
+            "13 ",
+            "14 ",
+            "15 ",
+            "16 ",
+            "17 ",
+            "18 ",
+            "19 ",
+            "20 ",
+            "21 ",
+            "22 ",
+            "23 ",
+            "24 ",
+            "25 ",
+            "26 ",
+            "27 ",
+            "28 ",
+            "29 ",
+            "30 ",
+            "31 ",
+            "32 ",
+            "33 ",
+            "34 ",
+            "35 ",
+            "36 ",
+            "37 ",
+            "38 ",
+            "39 ",
+            "40 ",
+            "41 ",
+            "42 ",
+            "43 ",
+            "44 ",
+            "45 ",
+            "46 ",
+            "47 ",
+            "48 ",
+            "49 ",
+            "50 ",
+            "51 ",
+            "52 ",
+            "53 ",
+            "54 ",
+            "55 ",
+            "56 ",
+            "57 ",
+            "58 ",
+            "59 ",
+            "60 ",
+            "61 ",
+            "62 ",
+            "63 ",
+            "64 ",
+            "65 ",
+            "66 ",
+            "67 ",
+            "68 ",
+            "69 ",
+            "70 ",
+            "71 ",
+            "72 ",
+            "73 ",
+            "74 ",
+            "75 ",
+            "76 ",
+            "77 ",
+            "78 ",
+            "79 ",
+            "80 ",
+            "81 ",
+            "82 ",
+            "83 ",
+            "84 ",
+            "85 ",
+            "86 ",
+            "87 ",
+            "88 ",
+            "89 ",
+            "90 ",
+            "91 ",
+            "92 ",
+            "93 ",
+            "94 ",
+            "95 ",
+            "96 ",
+            "97 ",
+            "98 ",
+            "99 "
+          ],
+          "refAALine": [
+            " P ",
+            " Q ",
+            " I ",
+            " T ",
+            " L ",
+            " W ",
+            " Q ",
+            " R ",
+            " P ",
+            " L ",
+            " V ",
+            " T ",
+            " I ",
+            " K ",
+            " I ",
+            " G ",
+            " G ",
+            " Q ",
+            " L ",
+            " K ",
+            " E ",
+            " A ",
+            " L ",
+            " L ",
+            " D ",
+            " T ",
+            " G ",
+            " A ",
+            " D ",
+            " D ",
+            " T ",
+            " V ",
+            " L ",
+            " E ",
+            " E ",
+            " M ",
+            " N ",
+            " L ",
+            " P ",
+            " G ",
+            " R ",
+            " W ",
+            " K ",
+            " P ",
+            " K ",
+            " M ",
+            " I ",
+            " G ",
+            " G ",
+            " I ",
+            " G ",
+            " G ",
+            " F ",
+            " I ",
+            " K ",
+            " V ",
+            " R ",
+            " Q ",
+            " Y ",
+            " D ",
+            " Q ",
+            " I ",
+            " L ",
+            " I ",
+            " E ",
+            " I ",
+            " C ",
+            " G ",
+            " H ",
+            " K ",
+            " A ",
+            " I ",
+            " G ",
+            " T ",
+            " V ",
+            " L ",
+            " V ",
+            " G ",
+            " P ",
+            " T ",
+            " P ",
+            " V ",
+            " N ",
+            " I ",
+            " I ",
+            " G ",
+            " R ",
+            " N ",
+            " L ",
+            " L ",
+            " T ",
+            " Q ",
+            " I ",
+            " G ",
+            " C ",
+            " T ",
+            " L ",
+            " N ",
+            " F "
+          ],
+          "alignedNAsLine": [
+            "CCT",
+            "CAG",
+            "ATC",
+            "ACT",
+            "CTT",
+            "TGG",
+            "CAA",
+            "CGA",
+            "CCC",
+            "CGC",
+            "GTC",
+            "ACA",
+            "ATA",
+            "AAG",
+            "ATA",
+            "GGG",
+            "GGG",
+            "CAG",
+            "CTA",
+            "AAG",
+            "GAA",
+            "GCT",
+            "CTA",
+            "TTA",
+            "GAT",
+            "ACA",
+            "GGA",
+            "GCA",
+            "GAT",
+            "GAT",
+            "ACA",
+            "ATA",
+            "CTA",
+            "GAG",
+            "GAA",
+            "ATG",
+            "CAT",
+            "TTG",
+            "CCA",
+            "GGA",
+            "AAA",
+            "TGG",
+            "AAG",
+            "CCA",
+            "AAA",
+            "ATA",
+            "GTA",
+            "GGG",
+            "GGA",
+            "CTT",
+            "GGA",
+            "GGT",
+            "TTT",
+            "ATC",
+            "AAA",
+            "GTA",
+            "AGA",
+            "CAG",
+            "TAT",
+            "GAT",
+            "CAG",
+            "ATA",
+            "CCT",
+            "ATA",
+            "GAA",
+            "ATC",
+            "TGT",
+            "GGA",
+            "CAT",
+            "AAA",
+            "ATT",
+            "GTA",
+            "GGT",
+            "ACA",
+            "GTA",
+            "TTA",
+            "ATA",
+            "GGA",
+            "CCT",
+            "ACA",
+            "CCT",
+            "ACC",
+            "AAC",
+            "ATA",
+            "ATT",
+            "GGA",
+            "AGA",
+            "AAT",
+            "CTR",
+            "ATG",
+            "ACT",
+            "CAG",
+            "CTT",
+            "GGG",
+            "TGC",
+            "ACT",
+            "TTA",
+            "AAT",
+            "TTT"
+          ],
+          "mutationLine": [
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " R ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " H ",
+            " - ",
+            " - ",
+            " - ",
+            " K ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " V ",
+            " - ",
+            " - ",
+            " L ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " P ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " T ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " M ",
+            " - ",
+            " - ",
+            " L ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - "
+          ]
+        }
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "8.8",
+          "publishDate": "2019-02-13"
+        },
+        "gene": {
+          "name": "PR"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "ATV",
+              "displayAbbr": "ATV/r"
+            },
+            "score": 185.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I50L",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I50L is a non-polymorphic mutation selected by ATV. It causes high-level resistance to ATV and increases susceptibility to most of the remaining PIs."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 25.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "DRV",
+              "displayAbbr": "DRV/r"
+            },
+            "score": 20.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I50L",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I50L is a non-polymorphic mutation selected by ATV. It causes high-level resistance to ATV and increases susceptibility to most of the remaining PIs."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "FPV",
+              "displayAbbr": "FPV/r"
+            },
+            "score": 140.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 35.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I50L",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I50L is a non-polymorphic mutation selected by ATV. It causes high-level resistance to ATV and increases susceptibility to most of the remaining PIs."
+                      }
+                    ]
+                  }
+                ],
+                "score": -5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "IDV",
+              "displayAbbr": "IDV/r"
+            },
+            "score": 130.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I50L",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I50L is a non-polymorphic mutation selected by ATV. It causes high-level resistance to ATV and increases susceptibility to most of the remaining PIs."
+                      }
+                    ]
+                  }
+                ],
+                "score": -5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "LPV",
+              "displayAbbr": "LPV/r"
+            },
+            "score": 95.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I50L",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I50L is a non-polymorphic mutation selected by ATV. It causes high-level resistance to ATV and increases susceptibility to most of the remaining PIs."
+                      }
+                    ]
+                  }
+                ],
+                "score": -10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "NFV",
+              "displayAbbr": "NFV"
+            },
+            "score": 190.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "SQV",
+              "displayAbbr": "SQV/r"
+            },
+            "score": 90.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I50L",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I50L is a non-polymorphic mutation selected by ATV. It causes high-level resistance to ATV and increases susceptibility to most of the remaining PIs."
+                      }
+                    ]
+                  }
+                ],
+                "score": -5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 45.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L90M",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "L90M is a non-polymorphic PI-selected mutation that reduces susceptibility to each of the PIs except TPV and DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "TPV",
+              "displayAbbr": "TPV/r"
+            },
+            "score": 80.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "V32I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V32I is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV. It is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I47V",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I47V is a non-polymorphic PI-selected mutation associated with reduced susceptibility to each of the PIs except SQV and ATV. I47V is included in the Tibotec DRV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "I50L",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "I50L is a non-polymorphic mutation selected by ATV. It causes high-level resistance to ATV and increases susceptibility to most of the remaining PIs."
+                      }
+                    ]
+                  }
+                ],
+                "score": -5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "V82T",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "V82T/S are non-polymorphic PI-selected mutations. They are associated with reduced susceptibility to each of the PIs except DRV. V82T is included in the Boehringer-Ingelheim TPV genotypic susceptibility score."
+                      }
+                    ]
+                  }
+                ],
+                "score": 45.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          }
+        ]
+      }
+    ]
+  }
+]

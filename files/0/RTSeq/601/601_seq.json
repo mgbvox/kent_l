@@ -1,0 +1,2922 @@
+[
+  {
+    "inputSequence": {
+      "header": "unk",
+      "SHA512": "c1ceb8cccd8473afe2e62e9cb52cd69edcebe9de4181ccdf66435965577a768a28d1bc8b5dcd8a71f4169154cdbebc736e91fa00b619b71941983b5bf8dae2f7"
+    },
+    "subtypeText": "B (2.37%)",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 267,
+        "gene": {
+          "name": "RT",
+          "length": 560
+        },
+        "mutations": [
+          {
+            "consensus": "M",
+            "position": 41,
+            "AAs": "L",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 43,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 67,
+            "AAs": "N",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": true
+          },
+          {
+            "consensus": "K",
+            "position": 103,
+            "AAs": "KN",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "V",
+            "position": 118,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 135,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 142,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "K",
+            "position": 166,
+            "AAs": "R",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "Y",
+            "position": 181,
+            "AAs": "CY",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "G",
+            "position": 190,
+            "AAs": "AG",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 210,
+            "AAs": "W",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "R",
+            "position": 211,
+            "AAs": "K",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 215,
+            "AAs": "Y",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "H",
+            "position": 221,
+            "AAs": "HY",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 228,
+            "AAs": "IL",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "V",
+            "position": 245,
+            "AAs": "M",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "M41L"
+          },
+          {
+            "text": "D67N"
+          },
+          {
+            "text": "K103N"
+          },
+          {
+            "text": "Y181C"
+          },
+          {
+            "text": "G190A"
+          },
+          {
+            "text": "L210W"
+          },
+          {
+            "text": "T215Y"
+          }
+        ],
+        "alignedNAs": "CCCATTAGTCCTATTGAAACTGTACCAGTAAAATTAAAGCCAGGAATGGATGGCCCAAAAGTTAAACAATGGCCATTGACAGAAGAAAAAATAAAAGCATTAGTAGAAATTTGTACAGAATTGGAAGAGGAAGGGAAAATTTCAAAAATTGGGCCTGAAAATCCATACAATACTCCAGTATTTGCCATAAAGAAAAAGAACAGTACTAAATGGAGAAAATTAGTAGATTTCAGAGAACTTAATAAGAGAACTCAAGACTTCTGGGAAGTTCAATTAGGAATACCACATCCCGCAGGGCTAAAAAAGAASAAATCAGTAACAGTACTGGATGTGGGTGATGCATACTTCTCAATTCCCTTAGATAAAGACTTCAGGAAGTATACTGCCTTTACCATACCTAGTGTAAACAATGAGACACCAGGGGTTAGATATCAGTACAATGTGCTCCCACAAGGATGGAAGGGATCACCAGCAATATTCCAAAGTAGCATGACAAGAATCTTAGAGCCCTTTAGAAAACAAAATCCAGACATAGTTATCTRTCAATAYATGGATGATTTGTATGTAGSATCTGACTTAGAAATAGGGCAACATAGAACAAAAATAGAGGAAYTGAGACAGCATCTATGGAAGTGGGGGTTTTACACACCAGACAAAAAAYATCAGAAAGAACCTCCATTCMTTTGGATGGGATATGAACTCCATCCTGATAAATGGACAGTACAGCCTATAATGCTGCCAGAAAAAGACAGCTGGACTGTCAATGACATACAGAAGTTAGTGGGAAAATTAAATTGGGCA",
+        "alignedAAs": "PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTELEEEGKISKIGPENPYNTPVFAIKKKNSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKNKSVTVLDVGDAYFSIPLDKDFRKYTAFTIPSVNNETPGVRYQYNVLPQGWKGSPAIFQSSMTRILEPFRKQNPDIVICQYMDDLYVASDLEIGQHRTKIEELRQHLWKWGFYTPDKKYQKEPPFIWMGYELHPDKWTVQPIMLPEKDSWTVNDIQKLVGKLNWA",
+        "prettyPairwise": {
+          "positionLine": [
+            " 1 ",
+            " 2 ",
+            " 3 ",
+            " 4 ",
+            " 5 ",
+            " 6 ",
+            " 7 ",
+            " 8 ",
+            " 9 ",
+            "10 ",
+            "11 ",
+            "12 ",
+            "13 ",
+            "14 ",
+            "15 ",
+            "16 ",
+            "17 ",
+            "18 ",
+            "19 ",
+            "20 ",
+            "21 ",
+            "22 ",
+            "23 ",
+            "24 ",
+            "25 ",
+            "26 ",
+            "27 ",
+            "28 ",
+            "29 ",
+            "30 ",
+            "31 ",
+            "32 ",
+            "33 ",
+            "34 ",
+            "35 ",
+            "36 ",
+            "37 ",
+            "38 ",
+            "39 ",
+            "40 ",
+            "41 ",
+            "42 ",
+            "43 ",
+            "44 ",
+            "45 ",
+            "46 ",
+            "47 ",
+            "48 ",
+            "49 ",
+            "50 ",
+            "51 ",
+            "52 ",
+            "53 ",
+            "54 ",
+            "55 ",
+            "56 ",
+            "57 ",
+            "58 ",
+            "59 ",
+            "60 ",
+            "61 ",
+            "62 ",
+            "63 ",
+            "64 ",
+            "65 ",
+            "66 ",
+            "67 ",
+            "68 ",
+            "69 ",
+            "70 ",
+            "71 ",
+            "72 ",
+            "73 ",
+            "74 ",
+            "75 ",
+            "76 ",
+            "77 ",
+            "78 ",
+            "79 ",
+            "80 ",
+            "81 ",
+            "82 ",
+            "83 ",
+            "84 ",
+            "85 ",
+            "86 ",
+            "87 ",
+            "88 ",
+            "89 ",
+            "90 ",
+            "91 ",
+            "92 ",
+            "93 ",
+            "94 ",
+            "95 ",
+            "96 ",
+            "97 ",
+            "98 ",
+            "99 ",
+            "100",
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110",
+            "111",
+            "112",
+            "113",
+            "114",
+            "115",
+            "116",
+            "117",
+            "118",
+            "119",
+            "120",
+            "121",
+            "122",
+            "123",
+            "124",
+            "125",
+            "126",
+            "127",
+            "128",
+            "129",
+            "130",
+            "131",
+            "132",
+            "133",
+            "134",
+            "135",
+            "136",
+            "137",
+            "138",
+            "139",
+            "140",
+            "141",
+            "142",
+            "143",
+            "144",
+            "145",
+            "146",
+            "147",
+            "148",
+            "149",
+            "150",
+            "151",
+            "152",
+            "153",
+            "154",
+            "155",
+            "156",
+            "157",
+            "158",
+            "159",
+            "160",
+            "161",
+            "162",
+            "163",
+            "164",
+            "165",
+            "166",
+            "167",
+            "168",
+            "169",
+            "170",
+            "171",
+            "172",
+            "173",
+            "174",
+            "175",
+            "176",
+            "177",
+            "178",
+            "179",
+            "180",
+            "181",
+            "182",
+            "183",
+            "184",
+            "185",
+            "186",
+            "187",
+            "188",
+            "189",
+            "190",
+            "191",
+            "192",
+            "193",
+            "194",
+            "195",
+            "196",
+            "197",
+            "198",
+            "199",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211",
+            "212",
+            "213",
+            "214",
+            "215",
+            "216",
+            "217",
+            "218",
+            "219",
+            "220",
+            "221",
+            "222",
+            "223",
+            "224",
+            "225",
+            "226",
+            "227",
+            "228",
+            "229",
+            "230",
+            "231",
+            "232",
+            "233",
+            "234",
+            "235",
+            "236",
+            "237",
+            "238",
+            "239",
+            "240",
+            "241",
+            "242",
+            "243",
+            "244",
+            "245",
+            "246",
+            "247",
+            "248",
+            "249",
+            "250",
+            "251",
+            "252",
+            "253",
+            "254",
+            "255",
+            "256",
+            "257",
+            "258",
+            "259",
+            "260",
+            "261",
+            "262",
+            "263",
+            "264",
+            "265",
+            "266",
+            "267"
+          ],
+          "refAALine": [
+            " P ",
+            " I ",
+            " S ",
+            " P ",
+            " I ",
+            " E ",
+            " T ",
+            " V ",
+            " P ",
+            " V ",
+            " K ",
+            " L ",
+            " K ",
+            " P ",
+            " G ",
+            " M ",
+            " D ",
+            " G ",
+            " P ",
+            " K ",
+            " V ",
+            " K ",
+            " Q ",
+            " W ",
+            " P ",
+            " L ",
+            " T ",
+            " E ",
+            " E ",
+            " K ",
+            " I ",
+            " K ",
+            " A ",
+            " L ",
+            " V ",
+            " E ",
+            " I ",
+            " C ",
+            " T ",
+            " E ",
+            " M ",
+            " E ",
+            " K ",
+            " E ",
+            " G ",
+            " K ",
+            " I ",
+            " S ",
+            " K ",
+            " I ",
+            " G ",
+            " P ",
+            " E ",
+            " N ",
+            " P ",
+            " Y ",
+            " N ",
+            " T ",
+            " P ",
+            " V ",
+            " F ",
+            " A ",
+            " I ",
+            " K ",
+            " K ",
+            " K ",
+            " D ",
+            " S ",
+            " T ",
+            " K ",
+            " W ",
+            " R ",
+            " K ",
+            " L ",
+            " V ",
+            " D ",
+            " F ",
+            " R ",
+            " E ",
+            " L ",
+            " N ",
+            " K ",
+            " R ",
+            " T ",
+            " Q ",
+            " D ",
+            " F ",
+            " W ",
+            " E ",
+            " V ",
+            " Q ",
+            " L ",
+            " G ",
+            " I ",
+            " P ",
+            " H ",
+            " P ",
+            " A ",
+            " G ",
+            " L ",
+            " K ",
+            " K ",
+            " K ",
+            " K ",
+            " S ",
+            " V ",
+            " T ",
+            " V ",
+            " L ",
+            " D ",
+            " V ",
+            " G ",
+            " D ",
+            " A ",
+            " Y ",
+            " F ",
+            " S ",
+            " V ",
+            " P ",
+            " L ",
+            " D ",
+            " K ",
+            " D ",
+            " F ",
+            " R ",
+            " K ",
+            " Y ",
+            " T ",
+            " A ",
+            " F ",
+            " T ",
+            " I ",
+            " P ",
+            " S ",
+            " I ",
+            " N ",
+            " N ",
+            " E ",
+            " T ",
+            " P ",
+            " G ",
+            " I ",
+            " R ",
+            " Y ",
+            " Q ",
+            " Y ",
+            " N ",
+            " V ",
+            " L ",
+            " P ",
+            " Q ",
+            " G ",
+            " W ",
+            " K ",
+            " G ",
+            " S ",
+            " P ",
+            " A ",
+            " I ",
+            " F ",
+            " Q ",
+            " S ",
+            " S ",
+            " M ",
+            " T ",
+            " K ",
+            " I ",
+            " L ",
+            " E ",
+            " P ",
+            " F ",
+            " R ",
+            " K ",
+            " Q ",
+            " N ",
+            " P ",
+            " D ",
+            " I ",
+            " V ",
+            " I ",
+            " Y ",
+            " Q ",
+            " Y ",
+            " M ",
+            " D ",
+            " D ",
+            " L ",
+            " Y ",
+            " V ",
+            " G ",
+            " S ",
+            " D ",
+            " L ",
+            " E ",
+            " I ",
+            " G ",
+            " Q ",
+            " H ",
+            " R ",
+            " T ",
+            " K ",
+            " I ",
+            " E ",
+            " E ",
+            " L ",
+            " R ",
+            " Q ",
+            " H ",
+            " L ",
+            " L ",
+            " R ",
+            " W ",
+            " G ",
+            " F ",
+            " T ",
+            " T ",
+            " P ",
+            " D ",
+            " K ",
+            " K ",
+            " H ",
+            " Q ",
+            " K ",
+            " E ",
+            " P ",
+            " P ",
+            " F ",
+            " L ",
+            " W ",
+            " M ",
+            " G ",
+            " Y ",
+            " E ",
+            " L ",
+            " H ",
+            " P ",
+            " D ",
+            " K ",
+            " W ",
+            " T ",
+            " V ",
+            " Q ",
+            " P ",
+            " I ",
+            " V ",
+            " L ",
+            " P ",
+            " E ",
+            " K ",
+            " D ",
+            " S ",
+            " W ",
+            " T ",
+            " V ",
+            " N ",
+            " D ",
+            " I ",
+            " Q ",
+            " K ",
+            " L ",
+            " V ",
+            " G ",
+            " K ",
+            " L ",
+            " N ",
+            " W ",
+            " A "
+          ],
+          "alignedNAsLine": [
+            "CCC",
+            "ATT",
+            "AGT",
+            "CCT",
+            "ATT",
+            "GAA",
+            "ACT",
+            "GTA",
+            "CCA",
+            "GTA",
+            "AAA",
+            "TTA",
+            "AAG",
+            "CCA",
+            "GGA",
+            "ATG",
+            "GAT",
+            "GGC",
+            "CCA",
+            "AAA",
+            "GTT",
+            "AAA",
+            "CAA",
+            "TGG",
+            "CCA",
+            "TTG",
+            "ACA",
+            "GAA",
+            "GAA",
+            "AAA",
+            "ATA",
+            "AAA",
+            "GCA",
+            "TTA",
+            "GTA",
+            "GAA",
+            "ATT",
+            "TGT",
+            "ACA",
+            "GAA",
+            "TTG",
+            "GAA",
+            "GAG",
+            "GAA",
+            "GGG",
+            "AAA",
+            "ATT",
+            "TCA",
+            "AAA",
+            "ATT",
+            "GGG",
+            "CCT",
+            "GAA",
+            "AAT",
+            "CCA",
+            "TAC",
+            "AAT",
+            "ACT",
+            "CCA",
+            "GTA",
+            "TTT",
+            "GCC",
+            "ATA",
+            "AAG",
+            "AAA",
+            "AAG",
+            "AAC",
+            "AGT",
+            "ACT",
+            "AAA",
+            "TGG",
+            "AGA",
+            "AAA",
+            "TTA",
+            "GTA",
+            "GAT",
+            "TTC",
+            "AGA",
+            "GAA",
+            "CTT",
+            "AAT",
+            "AAG",
+            "AGA",
+            "ACT",
+            "CAA",
+            "GAC",
+            "TTC",
+            "TGG",
+            "GAA",
+            "GTT",
+            "CAA",
+            "TTA",
+            "GGA",
+            "ATA",
+            "CCA",
+            "CAT",
+            "CCC",
+            "GCA",
+            "GGG",
+            "CTA",
+            "AAA",
+            "AAG",
+            "AAS",
+            "AAA",
+            "TCA",
+            "GTA",
+            "ACA",
+            "GTA",
+            "CTG",
+            "GAT",
+            "GTG",
+            "GGT",
+            "GAT",
+            "GCA",
+            "TAC",
+            "TTC",
+            "TCA",
+            "ATT",
+            "CCC",
+            "TTA",
+            "GAT",
+            "AAA",
+            "GAC",
+            "TTC",
+            "AGG",
+            "AAG",
+            "TAT",
+            "ACT",
+            "GCC",
+            "TTT",
+            "ACC",
+            "ATA",
+            "CCT",
+            "AGT",
+            "GTA",
+            "AAC",
+            "AAT",
+            "GAG",
+            "ACA",
+            "CCA",
+            "GGG",
+            "GTT",
+            "AGA",
+            "TAT",
+            "CAG",
+            "TAC",
+            "AAT",
+            "GTG",
+            "CTC",
+            "CCA",
+            "CAA",
+            "GGA",
+            "TGG",
+            "AAG",
+            "GGA",
+            "TCA",
+            "CCA",
+            "GCA",
+            "ATA",
+            "TTC",
+            "CAA",
+            "AGT",
+            "AGC",
+            "ATG",
+            "ACA",
+            "AGA",
+            "ATC",
+            "TTA",
+            "GAG",
+            "CCC",
+            "TTT",
+            "AGA",
+            "AAA",
+            "CAA",
+            "AAT",
+            "CCA",
+            "GAC",
+            "ATA",
+            "GTT",
+            "ATC",
+            "TRT",
+            "CAA",
+            "TAY",
+            "ATG",
+            "GAT",
+            "GAT",
+            "TTG",
+            "TAT",
+            "GTA",
+            "GSA",
+            "TCT",
+            "GAC",
+            "TTA",
+            "GAA",
+            "ATA",
+            "GGG",
+            "CAA",
+            "CAT",
+            "AGA",
+            "ACA",
+            "AAA",
+            "ATA",
+            "GAG",
+            "GAA",
+            "YTG",
+            "AGA",
+            "CAG",
+            "CAT",
+            "CTA",
+            "TGG",
+            "AAG",
+            "TGG",
+            "GGG",
+            "TTT",
+            "TAC",
+            "ACA",
+            "CCA",
+            "GAC",
+            "AAA",
+            "AAA",
+            "YAT",
+            "CAG",
+            "AAA",
+            "GAA",
+            "CCT",
+            "CCA",
+            "TTC",
+            "MTT",
+            "TGG",
+            "ATG",
+            "GGA",
+            "TAT",
+            "GAA",
+            "CTC",
+            "CAT",
+            "CCT",
+            "GAT",
+            "AAA",
+            "TGG",
+            "ACA",
+            "GTA",
+            "CAG",
+            "CCT",
+            "ATA",
+            "ATG",
+            "CTG",
+            "CCA",
+            "GAA",
+            "AAA",
+            "GAC",
+            "AGC",
+            "TGG",
+            "ACT",
+            "GTC",
+            "AAT",
+            "GAC",
+            "ATA",
+            "CAG",
+            "AAG",
+            "TTA",
+            "GTG",
+            "GGA",
+            "AAA",
+            "TTA",
+            "AAT",
+            "TGG",
+            "GCA"
+          ],
+          "mutationLine": [
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " L ",
+            " - ",
+            " E ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " N ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "KN ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " I ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " R ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "YC ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "GA ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " W ",
+            " K ",
+            " - ",
+            " - ",
+            " - ",
+            " Y ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "HY ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "LI ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " M ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - "
+          ]
+        }
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "8.8",
+          "publishDate": "2019-02-13"
+        },
+        "gene": {
+          "name": "RT"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "ABC",
+              "displayAbbr": "ABC"
+            },
+            "score": 70.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "AZT",
+              "displayAbbr": "AZT"
+            },
+            "score": 120.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 40.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "D4T",
+              "displayAbbr": "D4T"
+            },
+            "score": 120.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 40.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "DDI",
+              "displayAbbr": "DDI"
+            },
+            "score": 75.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "FTC",
+              "displayAbbr": "FTC"
+            },
+            "score": 20.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "LMV",
+              "displayAbbr": "3TC"
+            },
+            "score": 20.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NRTI"
+            },
+            "drug": {
+              "name": "TDF",
+              "displayAbbr": "TDF"
+            },
+            "score": 65.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "D67N",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "D67N is a non-polymorphic TAM associated with low-level resistance to AZT and d4T. When present with other TAMs, it contributes reduced susceptibility to ABC, ddI, and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M41L",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "M41L is a TAM that usually occurs with T215Y. In combination, M41L plus T215Y confer intermediate / high-level resistance to AZT and d4T and contribute to reduced ddI, ABC and TDF susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "L210W",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "L210W is a TAM that usually occurs in combination with M41L and T215Y. The combination of M41, L210W and T215Y causes high-level resistance to AZT and d4T and intermediate to high-level resistance to ddI, ABC and TDF."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "T215Y",
+                    "primaryType": "NRTI",
+                    "comments": [
+                      {
+                        "type": "NRTI",
+                        "text": "T215Y is a TAM that causes intermediate/high-level resistance to AZT and d4T, low-level resistance to ddI, and potentially low-level resistance to ABC and TDF."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "DOR",
+              "displayAbbr": "DOR"
+            },
+            "score": 50.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "H221Y",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "H221Y is a non-polymorphic accessory mutation selected primarily by NVP and RPV. It frequently occurs in combination with Y181C."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "K103N",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "K103N is a non-polymorphic mutation that causes high-level reductions in NVP and EFV susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "G190A",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "G190A is a non-polymorphic mutation that causes high-level resistance to NVP and intermediate resistance to EFV. It has a weight of 1.0 in the Tibotec ETR genotypic susceptibility score but does not appear to be selected by ETR or RPV or to reduce their in vitro susceptibility in the absence of other NNRTI-resistance mutations. It also does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "EFV",
+              "displayAbbr": "EFV"
+            },
+            "score": 145.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "K103N",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "K103N is a non-polymorphic mutation that causes high-level reductions in NVP and EFV susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G190A",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "G190A is a non-polymorphic mutation that causes high-level resistance to NVP and intermediate resistance to EFV. It has a weight of 1.0 in the Tibotec ETR genotypic susceptibility score but does not appear to be selected by ETR or RPV or to reduce their in vitro susceptibility in the absence of other NNRTI-resistance mutations. It also does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 45.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "H221Y",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "H221Y is a non-polymorphic accessory mutation selected primarily by NVP and RPV. It frequently occurs in combination with Y181C."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "ETR",
+              "displayAbbr": "ETR"
+            },
+            "score": 60.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G190A",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "G190A is a non-polymorphic mutation that causes high-level resistance to NVP and intermediate resistance to EFV. It has a weight of 1.0 in the Tibotec ETR genotypic susceptibility score but does not appear to be selected by ETR or RPV or to reduce their in vitro susceptibility in the absence of other NNRTI-resistance mutations. It also does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "H221Y",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "H221Y is a non-polymorphic accessory mutation selected primarily by NVP and RPV. It frequently occurs in combination with Y181C."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "G190A",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "G190A is a non-polymorphic mutation that causes high-level resistance to NVP and intermediate resistance to EFV. It has a weight of 1.0 in the Tibotec ETR genotypic susceptibility score but does not appear to be selected by ETR or RPV or to reduce their in vitro susceptibility in the absence of other NNRTI-resistance mutations. It also does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "NVP",
+              "displayAbbr": "NVP"
+            },
+            "score": 195.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "K103N",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "K103N is a non-polymorphic mutation that causes high-level reductions in NVP and EFV susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G190A",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "G190A is a non-polymorphic mutation that causes high-level resistance to NVP and intermediate resistance to EFV. It has a weight of 1.0 in the Tibotec ETR genotypic susceptibility score but does not appear to be selected by ETR or RPV or to reduce their in vitro susceptibility in the absence of other NNRTI-resistance mutations. It also does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "H221Y",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "H221Y is a non-polymorphic accessory mutation selected primarily by NVP and RPV. It frequently occurs in combination with Y181C."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "NNRTI"
+            },
+            "drug": {
+              "name": "RPV",
+              "displayAbbr": "RPV"
+            },
+            "score": 85.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 45.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "G190A",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "G190A is a non-polymorphic mutation that causes high-level resistance to NVP and intermediate resistance to EFV. It has a weight of 1.0 in the Tibotec ETR genotypic susceptibility score but does not appear to be selected by ETR or RPV or to reduce their in vitro susceptibility in the absence of other NNRTI-resistance mutations. It also does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "H221Y",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "H221Y is a non-polymorphic accessory mutation selected primarily by NVP and RPV. It frequently occurs in combination with Y181C."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "Y181C",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "Y181C is a non-polymorphic mutation selected in patients receiving NVP, ETR and RPV. It reduces susceptibility to NVP, ETR, RPV, and EFV by >50-fold, 5-fold, 3-fold, and 2-fold, respectively. Although Y181C itself reduces EFV susceptibility by only 2-fold, it has been associated with a reduced response to an EFV-containing regimen in NNRTI-experienced patients. Y181C has a weight of 2.5 in the Tibotec ETR genotypic susceptibility score. Alone, it does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  },
+                  {
+                    "text": "G190A",
+                    "primaryType": "NNRTI",
+                    "comments": [
+                      {
+                        "type": "NNRTI",
+                        "text": "G190A is a non-polymorphic mutation that causes high-level resistance to NVP and intermediate resistance to EFV. It has a weight of 1.0 in the Tibotec ETR genotypic susceptibility score but does not appear to be selected by ETR or RPV or to reduce their in vitro susceptibility in the absence of other NNRTI-resistance mutations. It also does not appear to reduce DOR susceptibility."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          }
+        ]
+      }
+    ]
+  }
+]

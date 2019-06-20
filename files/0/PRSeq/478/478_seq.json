@@ -1,0 +1,722 @@
+[
+  {
+    "inputSequence": {
+      "header": "unk",
+      "SHA512": "5044384a17b2f7813301c78b1e5bcc5498a025ca0b17ccc41609af95595880b35ceaa4ffc0e4ef2bc43f48b1234d8720f891995d4dd6c9e39703169816be4391"
+    },
+    "subtypeText": "B (3.70%)",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 99,
+        "gene": {
+          "name": "PR",
+          "length": 99
+        },
+        "mutations": [
+          {
+            "consensus": "I",
+            "position": 13,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 15,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 30,
+            "AAs": "N",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": true
+          },
+          {
+            "consensus": "K",
+            "position": 45,
+            "AAs": "Q",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "M",
+            "position": 46,
+            "AAs": "I",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": true
+          },
+          {
+            "consensus": "L",
+            "position": 63,
+            "AAs": "H",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "D30N"
+          },
+          {
+            "text": "M46I"
+          }
+        ],
+        "alignedNAs": "CCTCAGATCACTCTTTGGCAACGACCCCTCGTCACAGTAAAGGTAGGGGGGCAGCTAAAGGAAGCTCTATTAGATACAGGAGCAGATAATACAGTATTAGAAGAAATGAATTTGCCAGGAAGATGGAAACCACAAATAATAGGAGGAATTGGAGGTTTTATCAAAGTAAGACAGTATGATCAGATACATATAGAAATMTGTGGACATAARGCTATAGGTACAGTATTAGTAGGACCTACACCTGTCAATATAATTGGAAGAAATCTGTTGACGCAGATTGGCTGCACTTTAAACTTT",
+        "alignedAAs": "PQITLWQRPLVTVKVGGQLKEALLDTGADNTVLEEMNLPGRWKPQIIGGIGGFIKVRQYDQIHIEICGHKAIGTVLVGPTPVNIIGRNLLTQIGCTLNF",
+        "prettyPairwise": {
+          "positionLine": [
+            " 1 ",
+            " 2 ",
+            " 3 ",
+            " 4 ",
+            " 5 ",
+            " 6 ",
+            " 7 ",
+            " 8 ",
+            " 9 ",
+            "10 ",
+            "11 ",
+            "12 ",
+            "13 ",
+            "14 ",
+            "15 ",
+            "16 ",
+            "17 ",
+            "18 ",
+            "19 ",
+            "20 ",
+            "21 ",
+            "22 ",
+            "23 ",
+            "24 ",
+            "25 ",
+            "26 ",
+            "27 ",
+            "28 ",
+            "29 ",
+            "30 ",
+            "31 ",
+            "32 ",
+            "33 ",
+            "34 ",
+            "35 ",
+            "36 ",
+            "37 ",
+            "38 ",
+            "39 ",
+            "40 ",
+            "41 ",
+            "42 ",
+            "43 ",
+            "44 ",
+            "45 ",
+            "46 ",
+            "47 ",
+            "48 ",
+            "49 ",
+            "50 ",
+            "51 ",
+            "52 ",
+            "53 ",
+            "54 ",
+            "55 ",
+            "56 ",
+            "57 ",
+            "58 ",
+            "59 ",
+            "60 ",
+            "61 ",
+            "62 ",
+            "63 ",
+            "64 ",
+            "65 ",
+            "66 ",
+            "67 ",
+            "68 ",
+            "69 ",
+            "70 ",
+            "71 ",
+            "72 ",
+            "73 ",
+            "74 ",
+            "75 ",
+            "76 ",
+            "77 ",
+            "78 ",
+            "79 ",
+            "80 ",
+            "81 ",
+            "82 ",
+            "83 ",
+            "84 ",
+            "85 ",
+            "86 ",
+            "87 ",
+            "88 ",
+            "89 ",
+            "90 ",
+            "91 ",
+            "92 ",
+            "93 ",
+            "94 ",
+            "95 ",
+            "96 ",
+            "97 ",
+            "98 ",
+            "99 "
+          ],
+          "refAALine": [
+            " P ",
+            " Q ",
+            " I ",
+            " T ",
+            " L ",
+            " W ",
+            " Q ",
+            " R ",
+            " P ",
+            " L ",
+            " V ",
+            " T ",
+            " I ",
+            " K ",
+            " I ",
+            " G ",
+            " G ",
+            " Q ",
+            " L ",
+            " K ",
+            " E ",
+            " A ",
+            " L ",
+            " L ",
+            " D ",
+            " T ",
+            " G ",
+            " A ",
+            " D ",
+            " D ",
+            " T ",
+            " V ",
+            " L ",
+            " E ",
+            " E ",
+            " M ",
+            " N ",
+            " L ",
+            " P ",
+            " G ",
+            " R ",
+            " W ",
+            " K ",
+            " P ",
+            " K ",
+            " M ",
+            " I ",
+            " G ",
+            " G ",
+            " I ",
+            " G ",
+            " G ",
+            " F ",
+            " I ",
+            " K ",
+            " V ",
+            " R ",
+            " Q ",
+            " Y ",
+            " D ",
+            " Q ",
+            " I ",
+            " L ",
+            " I ",
+            " E ",
+            " I ",
+            " C ",
+            " G ",
+            " H ",
+            " K ",
+            " A ",
+            " I ",
+            " G ",
+            " T ",
+            " V ",
+            " L ",
+            " V ",
+            " G ",
+            " P ",
+            " T ",
+            " P ",
+            " V ",
+            " N ",
+            " I ",
+            " I ",
+            " G ",
+            " R ",
+            " N ",
+            " L ",
+            " L ",
+            " T ",
+            " Q ",
+            " I ",
+            " G ",
+            " C ",
+            " T ",
+            " L ",
+            " N ",
+            " F "
+          ],
+          "alignedNAsLine": [
+            "CCT",
+            "CAG",
+            "ATC",
+            "ACT",
+            "CTT",
+            "TGG",
+            "CAA",
+            "CGA",
+            "CCC",
+            "CTC",
+            "GTC",
+            "ACA",
+            "GTA",
+            "AAG",
+            "GTA",
+            "GGG",
+            "GGG",
+            "CAG",
+            "CTA",
+            "AAG",
+            "GAA",
+            "GCT",
+            "CTA",
+            "TTA",
+            "GAT",
+            "ACA",
+            "GGA",
+            "GCA",
+            "GAT",
+            "AAT",
+            "ACA",
+            "GTA",
+            "TTA",
+            "GAA",
+            "GAA",
+            "ATG",
+            "AAT",
+            "TTG",
+            "CCA",
+            "GGA",
+            "AGA",
+            "TGG",
+            "AAA",
+            "CCA",
+            "CAA",
+            "ATA",
+            "ATA",
+            "GGA",
+            "GGA",
+            "ATT",
+            "GGA",
+            "GGT",
+            "TTT",
+            "ATC",
+            "AAA",
+            "GTA",
+            "AGA",
+            "CAG",
+            "TAT",
+            "GAT",
+            "CAG",
+            "ATA",
+            "CAT",
+            "ATA",
+            "GAA",
+            "ATM",
+            "TGT",
+            "GGA",
+            "CAT",
+            "AAR",
+            "GCT",
+            "ATA",
+            "GGT",
+            "ACA",
+            "GTA",
+            "TTA",
+            "GTA",
+            "GGA",
+            "CCT",
+            "ACA",
+            "CCT",
+            "GTC",
+            "AAT",
+            "ATA",
+            "ATT",
+            "GGA",
+            "AGA",
+            "AAT",
+            "CTG",
+            "TTG",
+            "ACG",
+            "CAG",
+            "ATT",
+            "GGC",
+            "TGC",
+            "ACT",
+            "TTA",
+            "AAC",
+            "TTT"
+          ],
+          "mutationLine": [
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " N ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " Q ",
+            " I ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " H ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - "
+          ]
+        }
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "8.8",
+          "publishDate": "2019-02-13"
+        },
+        "gene": {
+          "name": "PR"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "ATV",
+              "displayAbbr": "ATV/r"
+            },
+            "score": 10.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "DRV",
+              "displayAbbr": "DRV/r"
+            },
+            "score": 0.0,
+            "partialScores": [],
+            "text": "Susceptible"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "FPV",
+              "displayAbbr": "FPV/r"
+            },
+            "score": 10.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "IDV",
+              "displayAbbr": "IDV/r"
+            },
+            "score": 10.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "LPV",
+              "displayAbbr": "LPV/r"
+            },
+            "score": 10.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "NFV",
+              "displayAbbr": "NFV"
+            },
+            "score": 90.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "D30N",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "D30N is a non-polymorphic mutation that causes high-level resistance to NFV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "SQV",
+              "displayAbbr": "SQV/r"
+            },
+            "score": 10.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "TPV",
+              "displayAbbr": "TPV/r"
+            },
+            "score": 5.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Susceptible"
+          }
+        ]
+      }
+    ]
+  }
+]

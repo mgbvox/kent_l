@@ -1,0 +1,950 @@
+[
+  {
+    "inputSequence": {
+      "header": "unk",
+      "SHA512": "f4d93db0d15bda0fa8dc1ebd72a501fca3efc85d6902e776e439cd4e04cb41c189e1df49c337976d459b9259f7725b2e09c32e5210e93af7fc5d0ed7738b83f7"
+    },
+    "subtypeText": "B (3.37%)",
+    "validationResults": [],
+    "alignedGeneSequences": [
+      {
+        "firstAA": 1,
+        "lastAA": 99,
+        "gene": {
+          "name": "PR",
+          "length": 99
+        },
+        "mutations": [
+          {
+            "consensus": "L",
+            "position": 10,
+            "AAs": "FL",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 15,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "D",
+            "position": 30,
+            "AAs": "DN",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": true
+          },
+          {
+            "consensus": "E",
+            "position": 35,
+            "AAs": "D",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "N",
+            "position": 37,
+            "AAs": "S",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "M",
+            "position": 46,
+            "AAs": "IM",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": true
+          },
+          {
+            "consensus": "D",
+            "position": 60,
+            "AAs": "E",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "I",
+            "position": 62,
+            "AAs": "V",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "L",
+            "position": 63,
+            "AAs": "C",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          },
+          {
+            "consensus": "T",
+            "position": 74,
+            "AAs": "PT",
+            "isInsertion": false,
+            "isDeletion": false,
+            "isApobecDRM": false
+          }
+        ],
+        "SDRMs": [
+          {
+            "text": "D30N"
+          },
+          {
+            "text": "M46I"
+          }
+        ],
+        "alignedNAs": "CCTCAAATCACTCTTTGGCAACGACCCYTCGTCACAATAAAGGTAGGGGGGCARCTAAAGGAAGCTCTATTAGATACAGGAGCAGATRATACAGTATTAGAGGACATGAGTTTGCCAGGAAGATGGAAACCAAAAATRATAGGGGGAATTGGAGGTTTTATCAAAGTAAGACAGTATGAACAGGTATGCATAGAAATCTGCGGCCATAAAGCKATAGGTMCGGTATTAGTAGGACCTACACCTGTCAACATAATTGGAAGAAATCTGTTGACTCAGATTGGTTGCACTTTAAATTTT",
+        "alignedAAs": "PQITLWQRPFVTIKVGGQLKEALLDTGADNTVLEDMSLPGRWKPKIIGGIGGFIKVRQYEQVCIEICGHKAIGPVLVGPTPVNIIGRNLLTQIGCTLNF",
+        "prettyPairwise": {
+          "positionLine": [
+            " 1 ",
+            " 2 ",
+            " 3 ",
+            " 4 ",
+            " 5 ",
+            " 6 ",
+            " 7 ",
+            " 8 ",
+            " 9 ",
+            "10 ",
+            "11 ",
+            "12 ",
+            "13 ",
+            "14 ",
+            "15 ",
+            "16 ",
+            "17 ",
+            "18 ",
+            "19 ",
+            "20 ",
+            "21 ",
+            "22 ",
+            "23 ",
+            "24 ",
+            "25 ",
+            "26 ",
+            "27 ",
+            "28 ",
+            "29 ",
+            "30 ",
+            "31 ",
+            "32 ",
+            "33 ",
+            "34 ",
+            "35 ",
+            "36 ",
+            "37 ",
+            "38 ",
+            "39 ",
+            "40 ",
+            "41 ",
+            "42 ",
+            "43 ",
+            "44 ",
+            "45 ",
+            "46 ",
+            "47 ",
+            "48 ",
+            "49 ",
+            "50 ",
+            "51 ",
+            "52 ",
+            "53 ",
+            "54 ",
+            "55 ",
+            "56 ",
+            "57 ",
+            "58 ",
+            "59 ",
+            "60 ",
+            "61 ",
+            "62 ",
+            "63 ",
+            "64 ",
+            "65 ",
+            "66 ",
+            "67 ",
+            "68 ",
+            "69 ",
+            "70 ",
+            "71 ",
+            "72 ",
+            "73 ",
+            "74 ",
+            "75 ",
+            "76 ",
+            "77 ",
+            "78 ",
+            "79 ",
+            "80 ",
+            "81 ",
+            "82 ",
+            "83 ",
+            "84 ",
+            "85 ",
+            "86 ",
+            "87 ",
+            "88 ",
+            "89 ",
+            "90 ",
+            "91 ",
+            "92 ",
+            "93 ",
+            "94 ",
+            "95 ",
+            "96 ",
+            "97 ",
+            "98 ",
+            "99 "
+          ],
+          "refAALine": [
+            " P ",
+            " Q ",
+            " I ",
+            " T ",
+            " L ",
+            " W ",
+            " Q ",
+            " R ",
+            " P ",
+            " L ",
+            " V ",
+            " T ",
+            " I ",
+            " K ",
+            " I ",
+            " G ",
+            " G ",
+            " Q ",
+            " L ",
+            " K ",
+            " E ",
+            " A ",
+            " L ",
+            " L ",
+            " D ",
+            " T ",
+            " G ",
+            " A ",
+            " D ",
+            " D ",
+            " T ",
+            " V ",
+            " L ",
+            " E ",
+            " E ",
+            " M ",
+            " N ",
+            " L ",
+            " P ",
+            " G ",
+            " R ",
+            " W ",
+            " K ",
+            " P ",
+            " K ",
+            " M ",
+            " I ",
+            " G ",
+            " G ",
+            " I ",
+            " G ",
+            " G ",
+            " F ",
+            " I ",
+            " K ",
+            " V ",
+            " R ",
+            " Q ",
+            " Y ",
+            " D ",
+            " Q ",
+            " I ",
+            " L ",
+            " I ",
+            " E ",
+            " I ",
+            " C ",
+            " G ",
+            " H ",
+            " K ",
+            " A ",
+            " I ",
+            " G ",
+            " T ",
+            " V ",
+            " L ",
+            " V ",
+            " G ",
+            " P ",
+            " T ",
+            " P ",
+            " V ",
+            " N ",
+            " I ",
+            " I ",
+            " G ",
+            " R ",
+            " N ",
+            " L ",
+            " L ",
+            " T ",
+            " Q ",
+            " I ",
+            " G ",
+            " C ",
+            " T ",
+            " L ",
+            " N ",
+            " F "
+          ],
+          "alignedNAsLine": [
+            "CCT",
+            "CAA",
+            "ATC",
+            "ACT",
+            "CTT",
+            "TGG",
+            "CAA",
+            "CGA",
+            "CCC",
+            "YTC",
+            "GTC",
+            "ACA",
+            "ATA",
+            "AAG",
+            "GTA",
+            "GGG",
+            "GGG",
+            "CAR",
+            "CTA",
+            "AAG",
+            "GAA",
+            "GCT",
+            "CTA",
+            "TTA",
+            "GAT",
+            "ACA",
+            "GGA",
+            "GCA",
+            "GAT",
+            "RAT",
+            "ACA",
+            "GTA",
+            "TTA",
+            "GAG",
+            "GAC",
+            "ATG",
+            "AGT",
+            "TTG",
+            "CCA",
+            "GGA",
+            "AGA",
+            "TGG",
+            "AAA",
+            "CCA",
+            "AAA",
+            "ATR",
+            "ATA",
+            "GGG",
+            "GGA",
+            "ATT",
+            "GGA",
+            "GGT",
+            "TTT",
+            "ATC",
+            "AAA",
+            "GTA",
+            "AGA",
+            "CAG",
+            "TAT",
+            "GAA",
+            "CAG",
+            "GTA",
+            "TGC",
+            "ATA",
+            "GAA",
+            "ATC",
+            "TGC",
+            "GGC",
+            "CAT",
+            "AAA",
+            "GCK",
+            "ATA",
+            "GGT",
+            "MCG",
+            "GTA",
+            "TTA",
+            "GTA",
+            "GGA",
+            "CCT",
+            "ACA",
+            "CCT",
+            "GTC",
+            "AAC",
+            "ATA",
+            "ATT",
+            "GGA",
+            "AGA",
+            "AAT",
+            "CTG",
+            "TTG",
+            "ACT",
+            "CAG",
+            "ATT",
+            "GGT",
+            "TGC",
+            "ACT",
+            "TTA",
+            "AAT",
+            "TTT"
+          ],
+          "mutationLine": [
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "LF ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " V ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "DN ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " D ",
+            " - ",
+            " S ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "MI ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " E ",
+            " - ",
+            " V ",
+            " C ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            "TP ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - ",
+            " - "
+          ]
+        }
+      }
+    ],
+    "drugResistance": [
+      {
+        "version": {
+          "text": "8.8",
+          "publishDate": "2019-02-13"
+        },
+        "gene": {
+          "name": "PR"
+        },
+        "drugScores": [
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "ATV",
+              "displayAbbr": "ATV/r"
+            },
+            "score": 20.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "DRV",
+              "displayAbbr": "DRV/r"
+            },
+            "score": 10.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L10F",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "L10F is a common non-polymorphic, PI-selected accessory mutation associated with reduced susceptibility to DRV, FPV, IDV, LPV, and NFV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Potential Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "FPV",
+              "displayAbbr": "FPV/r"
+            },
+            "score": 35.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L10F",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "L10F is a common non-polymorphic, PI-selected accessory mutation associated with reduced susceptibility to DRV, FPV, IDV, LPV, and NFV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "IDV",
+              "displayAbbr": "IDV/r"
+            },
+            "score": 30.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L10F",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "L10F is a common non-polymorphic, PI-selected accessory mutation associated with reduced susceptibility to DRV, FPV, IDV, LPV, and NFV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "LPV",
+              "displayAbbr": "LPV/r"
+            },
+            "score": 20.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L10F",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "L10F is a common non-polymorphic, PI-selected accessory mutation associated with reduced susceptibility to DRV, FPV, IDV, LPV, and NFV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "NFV",
+              "displayAbbr": "NFV"
+            },
+            "score": 125.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "L10F",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "L10F is a common non-polymorphic, PI-selected accessory mutation associated with reduced susceptibility to DRV, FPV, IDV, LPV, and NFV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 15.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "D30N",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "D30N is a non-polymorphic mutation that causes high-level resistance to NFV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 60.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 30.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 20.0
+              }
+            ],
+            "text": "High-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "SQV",
+              "displayAbbr": "SQV/r"
+            },
+            "score": 20.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 10.0
+              }
+            ],
+            "text": "Low-Level Resistance"
+          },
+          {
+            "drugClass": {
+              "name": "PI"
+            },
+            "drug": {
+              "name": "TPV",
+              "displayAbbr": "TPV/r"
+            },
+            "score": 30.0,
+            "partialScores": [
+              {
+                "mutations": [
+                  {
+                    "text": "M46I",
+                    "primaryType": "Major",
+                    "comments": [
+                      {
+                        "type": "Major",
+                        "text": "M46I/L are relatively non-polymorphic PI-selected mutations. In combination with other PI-resistance mutations, they are associated with reduced susceptibility to each of the PIs except DRV."
+                      }
+                    ]
+                  }
+                ],
+                "score": 5.0
+              },
+              {
+                "mutations": [
+                  {
+                    "text": "T74P",
+                    "primaryType": "Accessory",
+                    "comments": [
+                      {
+                        "type": "Accessory",
+                        "text": "T74P is a non-polymorphic PI-selected accessory mutation that occurs primarily in viruses from patients who have received multiple PIs. It is associated with reduced susceptibility to each of the PIs. It is included in the Boehringer-Ingelheim TPV and Tibotec DRV genotypic susceptibility scores."
+                      }
+                    ]
+                  }
+                ],
+                "score": 25.0
+              }
+            ],
+            "text": "Intermediate Resistance"
+          }
+        ]
+      }
+    ]
+  }
+]
