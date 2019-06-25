@@ -1,0 +1,9 @@
+Given sequence, generate list of drugs/drug class that will likely work on it.
+
+OneHot encoding of the mutation line, and OH encoding of all drug classes. DNN or Logistic regression for mapping.
+
+Want: mutation type X at position Y on gene G results in resistance to drug[s] (a,b,c,d)
+
+Other features: viral load and CD4 count
+
+
